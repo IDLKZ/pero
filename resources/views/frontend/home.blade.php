@@ -344,191 +344,69 @@
 
 
         <!--============ Team Area Start ============-->
-        <div class="start-up-team-area section-space--pt_120 start-up-patterns-image-04">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 pr-xl-0">
+                    <div class="about-us-content about-us-offset-right position-relative x-index-1">
+                        <div class="section-title-wrap">
+                            <h6 class="section-sub-title">Наша команда</h6>
+                            <h3 class="mb-20 section-title">Команда <br> профессионалов</h3>
+                            <p class="mb-20 font-weight--light">
+                                У нас работают люди, любящие свое дело - настоящие профессионалы и энтузиасты своего дела
+                            </p>
+                            <p class="mb-40 font-weight--normal font-italic">
+                                Учитель - инженер человеческой души <br>
+                                М.И.Калинин
+                            </p>
 
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-title-wrap text-center mb-20">
-                            <h6 class="section-sub-title">Our Team</h6>
-                            <h3 class="section-title">Meet our talented <br> team member</h3>
+                            <div class="about-us-btn-box">
+                                <a href="#" class="ht-btn ht-btn-sm">Наша команда</a>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
+                <div class="col-lg-7 pl-xl-0">
 
-            <div class="container-fluid cou-container-device">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 pr-xl-0">
+                    <div class="tab-content ht-tab__content-two section-space--mt_80">
 
-                        <div class="start-up-team-left-wrap d-flex justify-content-end align-items-end">
-                            <div class="img-content-start-up-team" data-aos="fade-right">
-                                <img src="assets/images/features/startup-team.png" alt="">
+                        <div class="tab-pane active">
+                            <!-- single-team-box Start -->
+                            <div class="single-team-box style-02 mt-30">
+                                <div class="team-image">
+                                    <img src="assets/img/team.jpg" style="width:281px;height:302px"  class="img-fluid" alt="Team Image">
+                                </div>
+
                             </div>
-
-                            <div class="tab-content ht-tab__content section-space--mt_80">
-
-                                <div class="tab-pane " id="tab_list_06" role="tabpanel">
-                                    <!-- single-team-box Start -->
-                                    <div class="single-team-box style-02 mt-30">
-                                        <div class="team-image">
-
-                                            <img src="assets/images/team/startup-team-large-01.png" class="img-fluid" alt="Team Image">
-
-                                            <div class="social-architecture-box">
-                                                <ul class="list ht-social-networks style-four">
-                                                    <li class="item">
-                                                        <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
-                                                    </li>
-                                                    <li class="item">
-                                                        <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
-                                                    </li>
-                                                    <li class="item">
-                                                        <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-
-
-                                        </div>
-                                        <div class="team-content">
-                                            <div class="text-box">
-                                                <h4>John Maxwal</h4>
-                                                <p>CEO &amp; Founder</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-team-box Start -->
-                                </div>
-
-                                <div class="tab-pane" id="tab_list_07" role="tabpanel">
-                                    <!-- single-team-box Start -->
-                                    <div class="single-team-box style-02 mt-30">
-                                        <div class="team-image">
-
-                                            <img src="assets/images/team/startup-team-large-02.png" class="img-fluid" alt="Team Image">
-
-                                            <div class="social-architecture-box">
-                                                <ul class="list ht-social-networks style-four">
-                                                    <li class="item">
-                                                        <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
-                                                    </li>
-                                                    <li class="item">
-                                                        <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
-                                                    </li>
-                                                    <li class="item">
-                                                        <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-
-
-                                        </div>
-                                        <div class="team-content">
-                                            <div class="text-box">
-                                                <h4>Jonshon Lara</h4>
-                                                <p>CEO &amp; Founder</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-team-box Start -->
-                                </div>
-
-                                <div class="tab-pane active" id="tab_list_08" role="tabpanel">
-                                    <!-- single-team-box Start -->
-                                    <div class="single-team-box style-02 mt-30">
-                                        <div class="team-image">
-
-                                            <img src="assets/images/team/startup-team-large-03.png" class="img-fluid" alt="Team Image">
-
-                                            <div class="social-architecture-box">
-                                                <ul class="list ht-social-networks style-four">
-                                                    <li class="item">
-                                                        <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
-                                                    </li>
-                                                    <li class="item">
-                                                        <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
-                                                    </li>
-                                                    <li class="item">
-                                                        <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-
-
-                                        </div>
-                                        <div class="team-content">
-                                            <div class="text-box">
-                                                <h4>Micel Jingala</h4>
-                                                <p>CEO &amp; Founder</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-team-box Start -->
-                                </div>
-
-                                <div class="tab-pane" id="tab_list_09" role="tabpanel">
-                                    <!-- single-team-box Start -->
-                                    <div class="single-team-box style-02 mt-30">
-                                        <div class="team-image">
-
-                                            <img src="assets/images/team/startup-team-large-04.png" class="img-fluid" alt="Team Image">
-
-                                            <div class="social-architecture-box">
-                                                <ul class="list ht-social-networks style-four">
-                                                    <li class="item">
-                                                        <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
-                                                    </li>
-                                                    <li class="item">
-                                                        <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
-                                                    </li>
-                                                    <li class="item">
-                                                        <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-
-
-                                        </div>
-                                        <div class="team-content">
-                                            <div class="text-box">
-                                                <h4>Micel Jingala</h4>
-                                                <p>CEO &amp; Founder</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- single-team-box Start -->
-                                </div>
-                            </div>
+                            <!-- single-team-box Start -->
                         </div>
 
+
                     </div>
-                    <div class="col-lg-6">
-                        <div class="col-05__right float-lg-left">
-                            <div class="text-center">
-                                <ul class="nav justify-content-center ht-tab-menu-team" role="tablist">
-                                    <li class="tab__item nav-item active">
-                                        <a class="nav-link active" id="nav-tab1" data-toggle="tab" href="#tab_list_06" role="tab" aria-selected="true">
-                                            <img src="assets/images/team/startup-team-small-01.png" class="img-fluid" alt="Team Image">
-                                        </a>
-                                    </li>
-                                    <li class="tab__item nav-item">
-                                        <a class="nav-link" id="nav-tab2" data-toggle="tab" href="#tab_list_07" role="tab" aria-selected="false">
-                                            <img src="assets/images/team/startup-team-small-02.png" class="img-fluid" alt="Team Image">
-                                        </a>
-                                    </li>
-                                    <li class="tab__item nav-item ">
-                                        <a class="nav-link" id="nav-tab3" data-toggle="tab" href="#tab_list_08" role="tab" aria-selected="false">
-                                            <img src="assets/images/team/startup-team-small-03.png" class="img-fluid" alt="Team Image">
-                                        </a>
-                                    </li>
-                                    <li class="tab__item nav-item ">
-                                        <a class="nav-link" id="nav-tab5" data-toggle="tab" href="#tab_list_09" role="tab" aria-selected="false">
-                                            <img src="assets/images/team/startup-team-small-04.png" class="img-fluid" alt="Team Image">
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
+
+                    <div class="col-05__right-two float-right">
+                        <div class="text-center">
+                            <ul class="nav justify-content-center ht-tab-menu-team-two" role="tablist">
+                                <li class="tab__item nav-item active">
+                                    <a class="nav-link active" id="nav-tab1" data-toggle="tab" href="#tab_list_06" role="tab" aria-selected="true">
+                                        <img src="assets/images/team/startup-team-small-rouend-01.png" class="img-fluid" alt="Team Image">
+                                    </a>
+                                </li>
+                                <li class="tab__item nav-item">
+                                    <a class="nav-link" id="nav-tab2" data-toggle="tab" href="#tab_list_07" role="tab" aria-selected="false">
+                                        <img src="assets/images/team/startup-team-small-rouend-02.png" class="img-fluid" alt="Team Image">
+                                    </a>
+                                </li>
+                                <li class="tab__item nav-item ">
+                                    <a class="nav-link" id="nav-tab3" data-toggle="tab" href="#tab_list_08" role="tab" aria-selected="false">
+                                        <img src="assets/images/team/startup-team-small-rouend-03.png" class="img-fluid" alt="Team Image">
+                                    </a>
+                                </li>
+                                <li class="tab__item nav-item ">
+                                    <a class="nav-link" id="nav-tab5" data-toggle="tab" href="#tab_list_09" role="tab" aria-selected="false">
+                                        <img src="assets/images/team/startup-team-small-rouend-04.png" class="img-fluid" alt="Team Image">
+                                    </a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                 </div>
@@ -545,26 +423,26 @@
                         <div class="fun-fact-style-two pl-5 pr-5 section-space--pt_60 mb-30 section-space--pb_30 personal-fun-fact-bg bg-img" data-bg="assets/images/patterns/startup-countert-bg.png">
                             <div class="single-fun-fact wow move-up">
                                 <div class="fun-fact--one">
-                                    <h3 class="fun-fact__count"><span class="counter">1050</span></h3>
-                                    <span class="fun-fact__text">Project Completed</span>
+                                    <h3 class="fun-fact__count"><span class="counter">12</span></h3>
+                                    <span class="fun-fact__text">Различных направлений</span>
                                 </div>
                             </div>
                             <div class="single-fun-fact wow move-up">
                                 <div class="fun-fact--one">
-                                    <h3 class="fun-fact__count"><span class="counter">528</span>+</h3>
-                                    <span class="fun-fact__text">Trusted Client’s</span>
+                                    <h3 class="fun-fact__count"><span class="counter">128</span>+</h3>
+                                    <span class="fun-fact__text">Счастливых студентов</span>
                                 </div>
                             </div>
                             <div class="single-fun-fact wow move-up">
                                 <div class="fun-fact--one">
                                     <h3 class="fun-fact__count"><span class="counter">100</span>%</h3>
-                                    <span class="fun-fact__text">Client Satisfaction</span>
+                                    <span class="fun-fact__text">Результат</span>
                                 </div>
                             </div>
                             <div class="single-fun-fact wow move-up">
                                 <div class="fun-fact--one">
                                     <h3 class="fun-fact__count"><span class="counter">125</span>+</h3>
-                                    <span class="fun-fact__text">Award Win</span>
+                                    <span class="fun-fact__text">Учителей</span>
                                 </div>
                             </div>
                         </div>
@@ -581,7 +459,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="personal-info-box start-up-bg box-shadow--default">
-                            <h4 class="theme-color-default ">Say Hello to me - info@example.com or 015879 654 215</h4>
+                            <h4 class="theme-color-default ">Заинтересовались, тогда звоните:<a :tel="+77783558165">+77783558165</a></h4>
                         </div>
                     </div>
                 </div>
@@ -679,111 +557,7 @@
         <!--================= Testimonial Area End ====================-->
 
 
-        <!--==================== Lates Blog Area Start  ====================-->
-        <div class="lates-blog-area section-space--pb_90">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-title-wrap text-center section-space--mb_60">
-                            <h6 class="section-sub-title">Blog Post</h6>
-                            <h3 class="section-title">Read our story everyday <br> with recent news</h3>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <!-- lates Single Blog Start-->
-                        <div class="lates-single-blog mb-30">
-                            <div class="blog-media">
-                                <a href="#"><img class="img-fluid" src="assets/images/blog/startup-01.jpg" alt="blog image"></a>
-                            </div>
-                            <div class="post-info lates-blog-post-info-02">
-                                <div class="post-meta">
-                                    <div class="post-date">
-                                        <span class="other_name">Ethan  </span> - 15 November, 2019
-                                    </div>
-                                </div>
 
-                                <h4 class="post-title font-weight--bold">
-                                    <a href="#" class="title--default">Business Problems Solve</a>
-                                </h4>
-
-                                <div class="post-excerpt mt-15">
-                                    <p>Electronic typesetting, remaining essentia
-                                        lly was popularised in 1960s with the releas
-                                        of letraset sheets to imporve business</p>
-                                </div>
-                                <div class="btn-text">
-                                    <a href="#">35 Comments</a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- lates Single Blog End -->
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <!-- lates Single Blog Start-->
-                        <div class="lates-single-blog mb-30">
-                            <div class="blog-media">
-                                <a href="#"><img class="img-fluid" src="assets/images/blog/startup-02.jpg" alt="blog image"></a>
-                            </div>
-                            <div class="post-info lates-blog-post-info-02">
-                                <div class="post-meta">
-                                    <div class="post-date">
-                                        <span class="other_name">Jhon Smith </span> - November 30, 2019
-                                    </div>
-                                </div>
-
-                                <h4 class="post-title font-weight--bold">
-                                    <a href="#" class="title--default">New Business Trend</a>
-                                </h4>
-
-                                <div class="post-excerpt mt-15">
-                                    <p>Electronic typesetting, remaining essentia
-                                        lly was popularised in 1960s with the releas
-                                        of letraset sheets to imporve business</p>
-                                </div>
-                                <div class="btn-text">
-                                    <a href="#">10 Comments</a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- lates Single Blog End -->
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <!-- lates Single Blog Start-->
-                        <div class="lates-single-blog  mb-30">
-                            <div class="blog-media">
-                                <a href="#"><img class="img-fluid" src="assets/images/blog/startup-03.jpg" alt="blog image"></a>
-                            </div>
-                            <div class="post-info lates-blog-post-info-02">
-                                <div class="post-meta">
-                                    <div class="post-date">
-                                        <span class="other_name">Jhon Smith </span> - November 30, 2019
-                                    </div>
-                                </div>
-
-                                <h4 class="post-title font-weight--bold">
-                                    <a href="#" class="title--default">Latest Business Strategy</a>
-                                </h4>
-
-                                <div class="post-excerpt mt-15">
-                                    <p>Electronic typesetting, remaining essentia
-                                        lly was popularised in 1960s with the releas
-                                        of letraset sheets to imporve business</p>
-                                </div>
-                                <div class="btn-text">
-                                    <a href="#">18 Comments</a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- lates Single Blog End -->
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--==================== Lates Blog Area End  ====================-->
 
 
         <!--============= Brand Area Start ===============-->
