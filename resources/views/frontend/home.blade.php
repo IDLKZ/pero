@@ -474,16 +474,17 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="startup-features text-center" data-aos="fade-right">
-                            <img src="assets/images/features/startup-testimonal.png" class="img-fluid" alt="Startup image">
+                            <img src="assets/img/review.jpg" class="img-fluid" alt="Startup image">
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="testimonials-content-right-box tablet-mt__60 small-mt__60">
                             <div class="section-title-wrap section-space--mb_60">
-                                <h6 class="section-sub-title">Testimonials</h6>
-                                <h3 class="mb-20 section-title">Our Happy Client’s <br> say about us</h3>
-                                <h4 class="mb-20 font-weight--light">You can select me for your next project
-                                    beacuse I would like to</h4>
+                                <h6 class="section-sub-title">Отзывы</h6>
+                                <h3 class="mb-20 section-title">Отзывы <br>наших клиентво</h3>
+                                <h4 class="mb-20 font-weight--light">
+                                    Работаем ради лучшего результата
+                                </h4>
                             </div>
 
                             <!--====================  Testimonial Section Start ====================-->

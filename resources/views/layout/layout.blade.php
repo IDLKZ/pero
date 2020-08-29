@@ -240,35 +240,42 @@
                 <div class="col-lg-8 col-md-12 col-sm-12">
                     <div class="coustom-row-in-footer">
                         <div class="footer-widget-coustom-col footer-widget">
-                            <h4 class="footer-widget__title mb-20 text-white">Useful Links</h4>
+                            <h4 class="footer-widget__title mb-20 text-white">Полезные ссылки</h4>
                             <ul class="footer-widget__item-list">
-                                <li><a href="#" class="hover-style-link">About us</a></li>
-                                <li><a href="#" class="hover-style-link">Our Services</a></li>
-                                <li><a href="#" class="hover-style-link">Privacy Policy</a></li>
-                                <li><a href="#" class="hover-style-link">Blog Post</a></li>
-                                <li><a href="#" class="hover-style-link">Our Team</a></li>
-                                <li><a href="#" class="hover-style-link">Contact us</a></li>
+                                <li class="has-children has-children--multilevel-submenu">
+                                    <a href="/"><span>Главная</span></a>
+                                </li>
+                                <li class="has-children">
+                                    <a href="{{route("about")}}"><span>О нас</span></a>
+                                </li>
+                                <li class="has-children has-children--multilevel-submenu">
+                                    <a href="{{route("service")}}"><span>Курсы</span></a>
+                                </li>
+                                <li class="has-children has-children--multilevel-submenu">
+                                    <a href="{{route("pricing")}}"><span>Цены</span></a>
+                                </li>
+                                <li class="has-children has-children--multilevel-submenu">
+                                    <a href="{{route("contact")}}"><span>Контакты</span></a>
+
+                                <li class="has-children has-children--multilevel-submenu">
+                                    <a href=""><span>Записаться</span></a>
+                                </li>
                             </ul>
-                            <ul class="footer-widget__item-list">
-                                <li><a href="#" class="hover-style-link">Online Support</a></li>
-                                <li><a href="#" class="hover-style-link">Our Offers</a></li>
-                                <li><a href="#" class="hover-style-link">Conditions</a></li>
-                                <li><a href="#" class="hover-style-link">Pages</a></li>
-                            </ul>
+
                         </div>
                         <div class="footer-widget-coustom-col footer-widget">
-                            <h4 class="footer-widget__title mb-20 text-white">Contact Info</h4>
+                            <h4 class="footer-widget__title mb-20 text-white">Наши контакты</h4>
                             <div class="footer-widget__list">
                                 <div class="single-footer-widger">
-                                    <h5>Address</h5>
-                                    <p>275 South Poal, 4th Floor Central Plaza, Main Town, New Yourk, USA</p>
+                                    <h5>Контакты</h5>
+                                    <p>Работаем онлайн</p>
                                 </div>
                                 <div class="single-footer-widger">
-                                    <h5>Phone</h5>
-                                    <p>01254 879 658, 65987 456 987 <br> 01256 879 857, 01458 658 985</p>
+                                    <h5>Телефон</h5>
+                                    <p>+7 778 355 8165 <br></p>
                                 </div>
                                 <div class="single-footer-widger">
-                                    <h5>Web</h5>
+                                    <h5>Почта</h5>
                                     <p>
                                         <a href="#">info@example.com</a> <br>
                                         <a href="#">www.example.com</a>
@@ -288,7 +295,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-12 text-center">
-                    <span class="copyright-text">Copyright &copy; <a href="https://hasthemes.com/" target="_blank" >All Rights Reserved.</a> Hasthemes.com</span>
+                    <span class="copyright-text">Команда фрилансеров &copy; <a href="https://idl.kz/" target="_blank" >IDL</a> {{\Carbon\Carbon::now()->year}}</span>
                 </div>
             </div>
         </div>
