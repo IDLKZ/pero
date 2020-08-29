@@ -10,16 +10,16 @@
             <div class="swiper-container hero-flexible__container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="start-up-hero bg-img" data-bg="assets/images/hero/startup-hero-02.png">
+                        <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg1.jpg">
                             <div class="container">
                                 <div class="row align-items-center">
                                     <div class="col-xl-6 col-lg-8 col-md-9">
 
                                         <div class="hero-text text-center text-md-left layer-animation-1">
-                                            <h4 class="text-color-secondary mb-10">Bruce</h4>
-                                            <h1 class="font-weight--bold mb-15 section-title">We help you <br> to grow up your <br> Business</h1>
+                                            <h4 class="text-color-secondary mb-10">Pero International Agency</h4>
+                                            <h1 class="font-weight--bold mb-15 section-title">Поможем  <br> Вам  <br> достичь Ваших целей</h1>
                                             <div class="hero-button mt-30">
-                                                <a href="inner-pages/start-up/contact-us.html" class="ht-btn ht-btn-lg font-weight--bold">Contact us</a>
+                                                <a href="" class="ht-btn ht-btn-lg font-weight--bold">Записаться</a>
                                             </div>
                                         </div>
                                     </div>
@@ -28,16 +28,16 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="start-up-hero bg-img" data-bg="assets/images/hero/startup-hero-01.png">
+                        <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg2.jpg">
                             <div class="container">
                                 <div class="row align-items-center">
                                     <div class="col-xl-6 col-lg-8 col-md-9">
 
                                         <div class="hero-text text-center text-md-left layer-animation-1">
-                                            <h4 class="text-color-secondary mb-10">Bruce</h4>
-                                            <h1 class="font-weight--bold mb-15 section-title">We help you <br> to grow up your <br> Business</h1>
+                                            <h4 class="text-color-secondary mb-10">Pero International Agency</h4>
+                                            <h1 class="font-weight--bold mb-15 section-title">Учись  <br>собственном темпе <br> Онлайн</h1>
                                             <div class="hero-button mt-30">
-                                                <a href="inner-pages/start-up/contact-us.html" class="ht-btn ht-btn-lg font-weight--bold">Contact us</a>
+                                                <a href="" class="ht-btn ht-btn-lg font-weight--bold">Наши курсы</a>
                                             </div>
                                         </div>
                                     </div>
@@ -46,16 +46,16 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="start-up-hero bg-img" data-bg="assets/images/hero/startup-hero-01.png">
+                        <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg3.jpg">
                             <div class="container">
                                 <div class="row align-items-center">
                                     <div class="col-xl-6 col-lg-8 col-md-9">
 
                                         <div class="hero-text text-center text-md-left layer-animation-1">
-                                            <h4 class="text-color-secondary mb-10">Bruce</h4>
-                                            <h1 class="font-weight--bold mb-15 section-title">We help you <br> to grow up your <br> Business</h1>
+                                            <h4 class="text-color-secondary mb-10">Pero International Agency</h4>
+                                            <h1 class="font-weight--bold mb-15 section-title">Только <br> лучшие учителя <br></h1>
                                             <div class="hero-button mt-30">
-                                                <a href="inner-pages/start-up/contact-us.html" class="ht-btn ht-btn-lg font-weight--bold">Contact us</a>
+                                                <a href="" class="ht-btn ht-btn-lg font-weight--bold">О нас</a>
                                             </div>
                                         </div>
                                     </div>
@@ -85,13 +85,12 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="ht-service-box style-05 text-center">
                             <div class="service-icon" data-aos="zoom-in-down">
-                                <img src="assets/images/icons/startup-service-icon-01.png" alt="">
+                                <img style="height: 150px; width: 150px" src="assets/img/adv1.jpg" alt="">
                             </div>
                             <div class="service-content">
-                                <h4 class="section-title mb-10">Brainstrom</h4>
-                                <p>Slectronic typesetting, rema
-                                    ining essentially was popular
-                                    ised in 1960s with release
+                                <h4 class="section-title mb-10">Качественные знания</h4>
+                                <p>Наши учителя настоящие профессионалы своего дела
+                                    Мы даем только реальные результаты
                                 </p>
                             </div>
                         </div>
@@ -101,13 +100,11 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="ht-service-box style-05 active text-center">
                             <div class="service-icon" data-aos="zoom-in-down">
-                                <img src="assets/images/icons/startup-service-icon-02.png" alt="">
+                                <img style="height: 150px; width: 150px" src="assets/img/adv2.jpg" alt="">
                             </div>
                             <div class="service-content">
-                                <h4 class="section-title mb-10">Make Prototype</h4>
-                                <p>Slectronic typesetting, rema
-                                    ining essentially was popular
-                                    ised in 1960s with release
+                                <h4 class="section-title mb-10">Практика</h4>
+                                <p>Даем возможность применить свои знания на практике
                                 </p>
                             </div>
                         </div>
@@ -117,13 +114,12 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="ht-service-box style-05 text-center">
                             <div class="service-icon" data-aos="zoom-in-down">
-                                <img src="assets/images/icons/startup-service-icon-03.png" alt="">
+                                <img style="height: 150px; width: 150px" src="assets/img/adv3.jpg" alt="">
                             </div>
                             <div class="service-content">
-                                <h4 class="section-title mb-10">Analysis</h4>
-                                <p>Slectronic typesetting, rema
-                                    ining essentially was popular
-                                    ised in 1960s with release
+                                <h4 class="section-title mb-10">Анализируй</h4>
+                                <p>Мы анализируем и понимаем информацию,
+                                     а не просто заучиваем
                                 </p>
                             </div>
                         </div>
@@ -133,13 +129,11 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="ht-service-box style-05 text-center">
                             <div class="service-icon" data-aos="zoom-in-down">
-                                <img src="assets/images/icons/startup-service-icon-04.png" alt="">
+                                <img style="height: 150px; width: 150px" src="assets/img/adv4.jpg" alt="">
                             </div>
                             <div class="service-content">
-                                <h4 class="section-title mb-10">Solutions</h4>
-                                <p>Slectronic typesetting, rema
-                                    ining essentially was popular
-                                    ised in 1960s with release
+                                <h4 class="section-title mb-10">Готовность</h4>
+                                <p>Даем знания которые дают уверенность в своей готовности к любым экзаменам
                                 </p>
                             </div>
                         </div>
@@ -158,26 +152,32 @@
                     <div class="col-lg-6 dots-offset">
                         <div class="about-image" data-aos="fade-right">
                             <div class="inner-images">
-                                <img class="about-img img-fluid" src="assets/images/features/startup-about.png" alt="About Image">
+                                <img class="about-img img-fluid" src="assets/img/pero.jpg" alt="About Image">
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="about-us-content about-us-offset-right position-relative x-index-1 small-mt__40 tablet-mt__40">
                             <div class="section-title-wrap">
-                                <h6 class="section-sub-title">Bruce - Modern & Professional</h6>
-                                <h3 class="mb-20 section-title">We provide excellent <br> services for your Business</h3>
-                                <h4 class="mb-20 font-weight--light"><span class="text-size-lg font-weight-bold text-color-secondary">21 </span>yeasrs of exprience in this field</h4>
-                                <p class="mb-20 font-weight--light">Most popular typesetting, remaining are essentially was pop ularised in
-                                    the 1960s with the release of uncover many web sites still in their
-                                    fancy. Various r typesetting, remaining are essentially</p>
-                                <p class="mb-15 font-weight--normal font-italic">Most popular typesetting, remaining are essentially have was pop ularised
-                                    in the 1960s with the release of uncover many web sites still </p>
-                                <p class="mb-40 font-weight--light">Most popular typesetting, remaining are essentially some times your
-                                    was pop ularised in the 1960s with the release </p>
+                                <h6 class="section-sub-title">Pero International Agency</h6>
+                                <h3 class="mb-20 section-title">Указываем дорогу к вашим знаниям</h3>
+                                <h4 class="mb-20 font-weight--light"><span class="text-size-lg font-weight-bold text-color-secondary">Pero </span> - анализируем, создаем, практикуем</h4>
+                                <p class="mb-20 font-weight--light">
+                                    Pero - занимается широким спектром обучения. Мы готовим к поступлению в РФМШ,НИШ,КТЛ.
+                                    Подготовка к международным экзаменам на английском языке SAT,NUFYPET,ACT.
+                                    Готовим к ЕНТ, помогаем закрыть пробелы школьных знаний
+                                </p>
+                                <p class="mb-15 font-weight--normal font-italic">
+                                   Курсы английского языка от Beginner до Advanced.
+                                    Готовим к международному экзамену IELTS
+                                </p>
+                                <p class="mb-40 font-weight--light">
+                                    Все занятия проходят в онлайн режиме, где ты можешь выбрать свой темп обучения!
+                                    А наш центр сделает все, чтобы ты успешно достиг своих целей!
+                                </p>
 
                                 <div class="about-us-btn-box">
-                                    <a href="#" class="ht-btn ht-btn-sm">Let’s start</a>
+                                    <a href="#" class="ht-btn ht-btn-sm">О нас</a>
                                 </div>
                             </div>
                         </div>
@@ -194,8 +194,8 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title-wrap text-left mb-20">
-                            <h6 class="section-sub-title">What we do</h6>
-                            <h3 class="section-title">Excellent Solutions <br>for your business</h3>
+                            <h6 class="section-sub-title">Что мы предлагаем?</h6>
+                            <h3 class="section-title">Лучшие знания  <br>только для Вас</h3>
                         </div>
                     </div>
                 </div>
@@ -209,13 +209,12 @@
                             <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="ht-service-box style-solutions">
                                     <div class="service-icon" data-aos="zoom-in-up">
-                                        <img src="assets/images/icons/startup-service-icon-05.png" alt="">
+                                        <img style="height: 150px; width: 150px" src="assets/img/offer1.jpg" alt="">
                                     </div>
                                     <div class="service-content">
-                                        <h4 class="section-title mb-10">Consultation</h4>
-                                        <p>Slectronic typesetting, rema
-                                            ining essentially was popular
-                                            ised in 1960s with release
+                                        <h4 class="section-title mb-10">Подготовка к поступлению</h4>
+                                        <p>
+                                            Готовим к поступлению в НИШ,РФМШ,КТЛ,
                                         </p>
                                     </div>
                                 </div>
@@ -225,13 +224,13 @@
                             <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="ht-service-box style-solutions">
                                     <div class="service-icon" data-aos="zoom-in-up">
-                                        <img src="assets/images/icons/startup-service-icon-06.png" alt="">
+                                        <img style="height: 150px; width: 150px" src="assets/img/offer2.jpg" alt="">
                                     </div>
                                     <div class="service-content">
-                                        <h4 class="section-title mb-10">Brand & Identity</h4>
-                                        <p>Slectronic typesetting, rema
-                                            ining essentially was popular
-                                            ised in 1960s with release
+                                        <h4 class="section-title mb-10">Английский язык</h4>
+                                        <p>
+                                            Уровни от Beginner до Advanced
+                                            Подготовка к сдаче IELTS
                                         </p>
                                     </div>
                                 </div>
@@ -241,13 +240,12 @@
                             <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="ht-service-box style-solutions">
                                     <div class="service-icon" data-aos="zoom-in-up">
-                                        <img src="assets/images/icons/startup-service-icon-07.png" alt="">
+                                        <img style="height: 150px; width: 150px" src="assets/img/offer3.jpg" alt="">
                                     </div>
                                     <div class="service-content">
-                                        <h4 class="section-title mb-10">Web design</h4>
-                                        <p>Slectronic typesetting, rema
-                                            ining essentially was popular
-                                            ised in 1960s with release
+                                        <h4 class="section-title mb-10">Экзамены</h4>
+                                        <p>
+                                            Сдача международным экзаменов NYFYPET,SAT,ACT
                                         </p>
                                     </div>
                                 </div>
@@ -257,13 +255,13 @@
                             <div class="col-lg-6 col-md-6 col-sm-6">
                                 <div class="ht-service-box style-solutions">
                                     <div class="service-icon" data-aos="zoom-in-up">
-                                        <img src="assets/images/icons/startup-service-icon-08.png" alt="">
+                                        <img style="height: 150px; width: 150px" src="assets/img/offer4.jpg" alt="">
                                     </div>
                                     <div class="service-content">
-                                        <h4 class="section-title mb-10">Apps Design</h4>
-                                        <p>Slectronic typesetting, rema
-                                            ining essentially was popular
-                                            ised in 1960s with release
+                                        <h4 class="section-title mb-10">ЕНТ</h4>
+                                        <p>
+                                            Подготовка к сдаче ЕНТ.
+                                            Поможем покрыть школьные пробелы в знаниях.
                                         </p>
                                     </div>
                                 </div>
@@ -273,7 +271,7 @@
                     </div>
                     <div class="col-lg-6 col-md-12">
                         <div class="features-images tablet-mt__40 small-mt__40" data-aos="fade-left">
-                            <img class="img-fluid" src="assets/images/features/startup-service-01.png" alt="Start up image">
+                            <img class="img-fluid" src="assets/img/offer.jpg" alt="Start up image">
                         </div>
                     </div>
                 </div>
@@ -289,7 +287,7 @@
                 <div class="row">
                     <div class="col-xl-5 col-lg-5">
                         <div class="features-images text-right  tablet-mt__40 small-mt__40" data-aos="fade-right">
-                            <img class="img-fluid" src="assets/images/features/startup-project.png" alt="Start up image">
+                            <img class="img-fluid" src="assets/img/result.jpg" alt="Start up image">
                         </div>
                     </div>
                     <div class="col-xl-7 col-lg-7">
@@ -298,8 +296,8 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <div class="section-title-wrap text-left mb-20">
-                                        <h6 class="section-sub-title">Our Porjects</h6>
-                                        <h3 class="section-title">Our successfully <br> completed projects</h3>
+                                        <h6 class="section-sub-title">Наши результаты</h6>
+                                        <h3 class="section-title">Результаты и наша работа <br> </h3>
                                     </div>
                                 </div>
                             </div>
@@ -310,21 +308,21 @@
                                             <div class="swiper-slide">
                                                 <div class="startup-project-wrap">
                                                     <a href="#">
-                                                        <img src="assets/images/projects/startup-project-01.png" alt="">
+                                                        <img  style="width: 200px;height: 240px" src="assets/img/result1.jpg" alt="">
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="startup-project-wrap">
                                                     <a href="#">
-                                                        <img src="assets/images/projects/startup-project-01.png" alt="">
+                                                        <img style="width: 200px;height: 240px" src="assets/img/result2.jpg" alt="">
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="startup-project-wrap">
                                                     <a href="#">
-                                                        <img src="assets/images/projects/startup-project-01.png" alt="">
+                                                        <img style="width: 200px;height: 240px" src="assets/img/result3.jpg" alt="">
                                                     </a>
                                                 </div>
                                             </div>
