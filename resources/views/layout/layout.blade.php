@@ -194,45 +194,27 @@
                     </div>
                     <div class="footer-widget-dic">
 
-                        <p class="footer-dec">Electronic typesetting, remaining essentia
-                            lly was popularised in 1960s with the releas
-                            of letraset sheets to imporve business</p>
+                        <p class="footer-dec">
+                            Pero International Agency <br>
+                            ▪️Поступление за границу и в НУ
+                            ▪️English/IELTS/SAT/NUFYPET/GRE/ЕНТ
+                            ▪️Стипендии на обучение по всему миру
+                            ▪️Международные стажировки и конференции
+                        </p>
 
-                        <div class="newsletter-footer-wrap mt-20">
-                            <h5 class="mb-10">Subscribe Newsletter</h5>
-                            <p>Subscribe our newsletter and get latest update
-                                about our offers, promotions and adds</p>
-                            <div class="newsletter-footer mt-20">
-                                <form action="#" class="widget-newsletter-form">
-                                    <input type="text" placeholder="Enter your email">
-                                    <div class="subscribe-button">
-                                        <button class="subscribe-btn">Subscribe</button>
-                                    </div>
-                                </form>
-                            </div>
-                        </div>
                         <ul class="list ht-social-networks mt-30">
 
                             <li class="item">
-                                <a href="https://facebook.com" target="_blank">
-                                    <i class="fa fa-facebook-f link-icon"></i>
-                                </a>
-                            </li>
-                            <li class="item">
-                                <a href="https://twitter.com" target="_blank">
-                                    <i class="fa fa-twitter link-icon"></i>
-                                </a>
-                            </li>
-                            <li class="item">
-                                <a href="https://instagram.com" target="_blank">
+                                <a href="https://www.instagram.com/pero.agency/" target="_blank">
                                     <i class="fa fa-instagram link-icon"></i>
                                 </a>
                             </li>
                             <li class="item">
-                                <a href="https://linkedin.com" target="_blank">
-                                    <i class="fa fa-linkedin link-icon"></i>
+                                <a href="https://api.whatsapp.com/send?phone=77783558165" target="_blank">
+                                    <i class="fa fa-whatsapp link-icon"></i>
                                 </a>
                             </li>
+
                         </ul>
 
                     </div>
@@ -295,7 +277,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-12 text-center">
-                    <span class="copyright-text">Команда фрилансеров &copy; <a href="https://idl.kz/" target="_blank" >IDL</a> {{\Carbon\Carbon::now()->year}}</span>
+                    <span class="copyright-text">Команда фрилансеров <a href="https://idl.kz/" target="_blank" >IDL</a> {{\Carbon\Carbon::now()->year}}</span>
                 </div>
             </div>
         </div>
