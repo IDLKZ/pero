@@ -484,28 +484,7 @@
         </div>
         <!--================= Testimonial Area End ====================-->
 
-        <!--============= Brand Area Start ===============-->
-        <div class="brand-area section-space--pb_90 section-space--pt_120 ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 brand-box-wrap">
-                        <div class="single-brand-box">
-                            <a href="#"><img src="../../assets/images/brand/client-logo-01.png" alt=""></a>
-                        </div>
-                        <div class="single-brand-box">
-                            <a href="#"><img src="../../assets/images/brand/client-logo-02.png" alt=""></a>
-                        </div>
-                        <div class="single-brand-box">
-                            <a href="#"><img src="../../assets/images/brand/client-logo-03.png" alt=""></a>
-                        </div>
-                        <div class="single-brand-box">
-                            <a href="#"><img src="../../assets/images/brand/client-logo-04.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--============= Brand Area End ===============-->
+
 
 
 

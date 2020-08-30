@@ -100,7 +100,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="ht-service-box style-05 active text-center">
                             <div class="service-icon" data-aos="zoom-in-down">
-                                <img style="height: 150px; width: 150px" src="assets/img/adv2.jpg" alt="">
+                                <img style="height: 150px; width: 150px" src="/assets/img/adv2.jpg" alt="">
                             </div>
                             <div class="service-content">
                                 <h4 class="section-title mb-10">Практика</h4>
@@ -114,7 +114,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="ht-service-box style-05 text-center">
                             <div class="service-icon" data-aos="zoom-in-down">
-                                <img style="height: 150px; width: 150px" src="assets/img/adv3.jpg" alt="">
+                                <img style="height: 150px; width: 150px" src="/assets/img/adv3.jpg" alt="">
                             </div>
                             <div class="service-content">
                                 <h4 class="section-title mb-10">Анализируй</h4>
@@ -129,7 +129,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="ht-service-box style-05 text-center">
                             <div class="service-icon" data-aos="zoom-in-down">
-                                <img style="height: 150px; width: 150px" src="assets/img/adv4.jpg" alt="">
+                                <img style="height: 150px; width: 150px" src="/assets/img/adv4.jpg" alt="">
                             </div>
                             <div class="service-content">
                                 <h4 class="section-title mb-10">Готовность</h4>
@@ -152,7 +152,7 @@
                     <div class="col-lg-6 dots-offset">
                         <div class="about-image" data-aos="fade-right">
                             <div class="inner-images">
-                                <img class="about-img img-fluid" src="assets/img/pero.jpg" alt="About Image">
+                                <img class="about-img img-fluid" src="/assets/img/pero.jpg" alt="About Image">
                             </div>
                         </div>
                     </div>
@@ -561,28 +561,7 @@
 
 
 
-        <!--============= Brand Area Start ===============-->
-        <div class="brand-area section-space--pb_90">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 brand-box-wrap">
-                        <div class="single-brand-box">
-                            <a href="#"><img src="assets/images/brand/client-logo-01.png" alt=""></a>
-                        </div>
-                        <div class="single-brand-box">
-                            <a href="#"><img src="assets/images/brand/client-logo-02.png" alt=""></a>
-                        </div>
-                        <div class="single-brand-box">
-                            <a href="#"><img src="assets/images/brand/client-logo-03.png" alt=""></a>
-                        </div>
-                        <div class="single-brand-box">
-                            <a href="#"><img src="assets/images/brand/client-logo-04.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--============= Brand Area End ===============-->
+
 
     </div>
 

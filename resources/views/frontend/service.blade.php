@@ -7,15 +7,15 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="breadcrumb_box text-left">
-                        <h2 class="breadcrumb-title text-color-primary mb-10">Services</h2>
-                        <p class="">Most popular typesetting, remaining are essentially <br>
-                            was pop ularised in the 1960s with the release of uncover <br>
-                            many web sites still in their fancy pesetting </p>
+                        <h2 class="breadcrumb-title text-color-primary mb-10">Наши курсы</h2>
+                        <p class="">Изучение английского, подготовка к сдаче IELTS <br>
+                            Подготовка к ЕНТ и закрытие пробелов в школьных знаниях <br>
+                           Подготовка к поступлению и сдача международных экзаменов </p>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="breadcrumb_inner-img text-right">
-                        <img src="../../assets/images/bg/start-up-breadcrumb_inner-service.png" class="img-fluid" alt="">
+                        <img src="/assets/img/service.jpg" class="img-fluid" alt="">
                     </div>
                 </div>
             </div>
@@ -31,17 +31,17 @@
                 <div class="row">
                     <div class="col-lg-8 ml-auto mr-auto">
                         <div class="section-title-wrap text-center">
-                            <h3 class="mb-20 section-title">We care your <br>  Business to grow up</h3>
-                            <h4 class="mb-20 font-weight--reguler"><span class="text-size-lg font-weight-bold text-color-secondary">21 </span>yeasrs of exprience in this field</h4>
-                            <p class="mb-20 font-weight--light">Most popular typesetting, remaining are essentially was pop in the 1960s with the release of <br>
-                                uncover many web sites still someone fancy. Various typesetting,essentially simple</p>
-                            <p class="mb-15 font-weight--normal font-italic">Most popular typesetting, remaining are essentially have was pop used <br>
-                                in the 1960s with the release of uncover many web sites still  </p>
+                            <h3 class="mb-20 section-title">С заботой  <br>  о Вас</h3>
+                            <h4 class="mb-20 font-weight--reguler"><span class="text-size-lg font-weight-bold text-color-secondary">Pero International Agency </span>имеет большой опыт в преподавании</h4>
+                            <p class="mb-20 font-weight--light">У нас вы можете самостоятельно подобрать темп обучения, время, преподавателей <br>
+                              Мы помогаем достигать своих целей, расти и развиваться</p>
+                            <p class="mb-15 font-weight--normal font-italic">Понимая основные ключевые моменты того или иного предмета, <br>
+                                мы даем только практичные и качественные знания  </p>
                         </div>
                     </div>
                     <div class="col-lg-8 ml-auto mr-auto">
                         <div class="start-up-service section-space--mt_60">
-                            <img src="../../assets/images/features/startup-services-info.png" class="img-fluid" alt="">
+                            <img src="../../assets/img/pero.jpg" class="img-fluid" alt="">
                         </div>
                     </div>
                 </div>
@@ -50,194 +50,222 @@
         <!--=========== Service Area End ==========-->
 
 
-        <!--============ Business Solutions Area Start ============-->
-        <div class="business-solutions-area section-space--pt_120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-title-wrap text-left mb-20">
-                            <h6 class="section-sub-title">What we do</h6>
-                            <h3 class="section-title">Excellent Solutions <br>for your business</h3>
-                        </div>
-                    </div>
-                </div>
 
-            </div>
-            <div class="container-fluid container--1450">
-                <div class="row align-items-center">
 
-                    <div class="col-lg-6 col-md-12">
-                        <div class="features-images text-lg-left text-center tablet-mt__40 small-mt__40" data-aos="fade-left">
-                            <img class="img-fluid" src="../../assets/images/features/startup-service-02.png" alt="Start up image">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="row row--35 col-06__left-630 float-lg-left">
-                            <!-- service-area Start -->
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="ht-service-box style-solutions-two">
-                                    <div class="service-icon" data-aos="zoom-in-up">
-                                        <img src="../../assets/images/icons/startup-service-icon-05.png" class="img-fluid" alt="Image">
-                                    </div>
-                                    <div class="service-content">
-                                        <h4 class="section-title mb-10">Consultation</h4>
-                                        <p>Slectronic typesetting, rema
-                                            ining essentially was popular
-                                            ised in 1960s with release
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- service-area End -->
-                            <!-- service-area Start -->
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="ht-service-box style-solutions-two">
-                                    <div class="service-icon" data-aos="zoom-in-up">
-                                        <img src="../../assets/images/icons/startup-service-icon-06.png" class="img-fluid" alt="Image">
-                                    </div>
-                                    <div class="service-content">
-                                        <h4 class="section-title mb-10">Brand & Identity</h4>
-                                        <p>Slectronic typesetting, rema
-                                            ining essentially was popular
-                                            ised in 1960s with release
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- service-area End -->
-                            <!-- service-area Start -->
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="ht-service-box style-solutions-two">
-                                    <div class="service-icon" data-aos="zoom-in-up">
-                                        <img src="../../assets/images/icons/startup-service-icon-07.png" class="img-fluid" alt="Image">
-                                    </div>
-                                    <div class="service-content">
-                                        <h4 class="section-title mb-10">Web design</h4>
-                                        <p>Slectronic typesetting, rema
-                                            ining essentially was popular
-                                            ised in 1960s with release
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- service-area End -->
-                            <!-- service-area Start -->
-                            <div class="col-lg-6 col-md-6 col-sm-6">
-                                <div class="ht-service-box style-solutions-two">
-                                    <div class="service-icon" data-aos="zoom-in-up">
-                                        <img src="../../assets/images/icons/startup-service-icon-08.png" class="img-fluid" alt="Image">
-                                    </div>
-                                    <div class="service-content">
-                                        <h4 class="section-title mb-10">Apps Design</h4>
-                                        <p>Slectronic typesetting, rema
-                                            ining essentially was popular
-                                            ised in 1960s with release
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- service-area End -->
-                        </div>
-                    </div>
-                </div>
 
-            </div>
 
-        </div>
-        <!--============ Business Solutions Area End ============-->
+
 
 
         <!--============ Service Area Start ============-->
-        <div class="start-up-service-area section-space--pt_120 section-space--pb_90 ">
+        <div class="services-wrapper services-hight section-space--pt_120 bg-img" data-bg="../../assets/images/bg/creative-service-bg.jpg">
             <div class="container">
                 <div class="row">
-                    <!-- service-area Start -->
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="ht-service-box style-05 text-center">
-                            <div class="service-icon" data-aos="zoom-in-down">
-                                <img src="../../assets/images/icons/startup-service-icon-01.png" alt="">
+                    <div class="col-lg-12">
+                        <div class="section-title-wrap text-center">
+                            <h6 class="section-sub-title">Наши курсы</h6>
+                            <h3 class="mb-20 section-title">Качественные курсы <br> по доступной цене</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="service-content-inner-bottom  section-space--pb_90">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <!-- Single Service Box Start -->
+                        <div class="ht-service-box style-04 text-center single-svg-icon-box">
+                            <div class="service-icon">
+                                <!--<div class="svg-icon" id="svg-1" data-svg-icon="assets/images/svg/linea-basic-heart.svg"></div>-->
+                                <img src="../../../../assets/images/icons/service-01.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h4 class="section-title mb-10">Brainstrom</h4>
-                                <p>Slectronic typesetting, rema
-                                    ining essentially was popular
-                                    ised in 1960s with release
+                                <h4 class="section-title mb-20">Курсы английского</h4>
+                                <p>
+                                    От Beginner до Upper-Intermediate. <br>
+                                    Длительность в зависимости от интенсивности 1-3 месяца. 2-3 раза в неделю.<br>
+                                    Пробный урок 30-40 минут (1000тг. Обсуждаются все вопросы)<br>
+                                    Занятия в группе (1500 тг/час) и индивидуально (2000 тг/час)
                                 </p>
                             </div>
                         </div>
+                        <!-- Single Service Box End -->
                     </div>
-                    <!-- service-area End -->
-                    <!-- service-area Start -->
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="ht-service-box style-05 active text-center">
-                            <div class="service-icon" data-aos="zoom-in-down">
-                                <img src="../../assets/images/icons/startup-service-icon-02.png" alt="">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <!-- Single Service Box Start -->
+                        <div class="ht-service-box style-04 text-center single-svg-icon-box">
+                            <div class="service-icon">
+                                <!--<div class="svg-icon" id="svg-2" data-svg-icon="assets/images/svg/linea-basic-heart.svg"></div>-->
+                                <img src="../../assets/images/icons/service-02.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h4 class="section-title mb-10">Make Prototype</h4>
-                                <p>Slectronic typesetting, rema
-                                    ining essentially was popular
-                                    ised in 1960s with release
+                                <h4 class="section-title mb-20">Курс IELTS</h4>
+                                <p>
+                                    9-11 классы, студенты <br>
+                                    Групповые (2500 тг. в час) и индивидуальные занятия (3000 тг. в час)<br>
+                                    Длительность в зависимости от интенсивности 1-3 месяца. 2-3 раза в неделю.<br>
+                                    Пробный урок 30-40 минут (1000тг. Обсуждаются все вопросы)<br>
                                 </p>
                             </div>
                         </div>
+                        <!-- Single Service Box End -->
                     </div>
-                    <!-- service-area End -->
-                    <!-- service-area Start -->
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="ht-service-box style-05 text-center">
-                            <div class="service-icon" data-aos="zoom-in-down">
-                                <img src="../../assets/images/icons/startup-service-icon-03.png" alt="">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <!-- Single Service Box Start -->
+                        <div class="ht-service-box style-04 text-center single-svg-icon-box">
+                            <div class="service-icon">
+                                <!--<div class="svg-icon" id="svg-1" data-svg-icon="assets/images/svg/linea-basic-heart.svg"></div>-->
+                                <img src="../../assets/images/icons/service-03.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h4 class="section-title mb-10">Analysis</h4>
-                                <p>Slectronic typesetting, rema
-                                    ining essentially was popular
-                                    ised in 1960s with release
+                                <h4 class="section-title mb-20">Подготовка к ЕНТ</h4>
+                                <p>
+                                    Физика, математика, химия  <br>
+                                    Групповые занятия, от 1-2 месяцев до 1-1,5 года в зависимости от уровня<br>
+                                    2-3 раза в неделю.<br>
+                                    Занятия в группе (2000 тг/час) и индивидуально (2500 тг/час)<br>
+                                    Пробный урок 30-40 минут (1000тг. Обсуждаются все вопросы)<br>
                                 </p>
                             </div>
                         </div>
+                        <!-- Single Service Box End -->
                     </div>
-                    <!-- service-area End -->
-                    <!-- service-area Start -->
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="ht-service-box style-05 text-center">
-                            <div class="service-icon" data-aos="zoom-in-down">
-                                <img src="../../assets/images/icons/startup-service-icon-04.png" alt="">
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <!-- Single Service Box Start -->
+                        <div class="ht-service-box style-04 text-center single-svg-icon-box">
+                            <div class="service-icon">
+                                <!--<div class="svg-icon" id="svg-2" data-svg-icon="assets/images/svg/linea-basic-heart.svg"></div>-->
+                                <img src="../../assets/images/icons/service-02.png" alt="">
                             </div>
                             <div class="service-content">
-                                <h4 class="section-title mb-10">Solutions</h4>
-                                <p>Slectronic typesetting, rema
-                                    ining essentially was popular
-                                    ised in 1960s with release
+                                <h4 class="section-title mb-20">NUFYPET, SAT, ACT</h4>
+                                <p>
+                                    Подготовка к сдаче NUFYPET, SAT, ACT  <br>
+                                    Групповые занятия, от 1-2 месяцев до 5-6 месяцев в зависимости от уровня.
+                                    2-3 раза в неделю.<br>
+                                    Занятия в группе (2500 тг/час) и индивидуально (3000 тг/час)<br>
+                                    Пробный урок 30-40 минут (1000тг. Обсуждаются все вопросы)<br>
                                 </p>
                             </div>
                         </div>
+                        <!-- Single Service Box End -->
                     </div>
-                    <!-- service-area End -->
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <!-- Single Service Box Start -->
+                        <div class="ht-service-box style-04 text-center single-svg-icon-box">
+                            <div class="service-icon">
+                                <!--<div class="svg-icon" id="svg-1" data-svg-icon="assets/images/svg/linea-basic-heart.svg"></div>-->
+                                <img src="../../assets/images/icons/service-05.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4 class="section-title mb-20">Школьные предметы</h4>
+                                <p>
+                                    Школьные предметы от 1-9 классы  <br>
+                                    Групповые занятия, от 1-2 месяцев до 1-1,5 года в зависимости от уровня<br>
+                                    2-3 раза в неделю.<br>
+                                    Занятия в группе (1500 тг/час) и индивидуально (2500 тг/час)<br>
+                                    Пробный урок 30-40 минут (1000тг. Обсуждаются все вопросы)<br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Single Service Box End -->
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-6">
+                        <!-- Single Service Box Start -->
+                        <div class="ht-service-box style-04 text-center single-svg-icon-box">
+                            <div class="service-icon">
+                                <!--<div class="svg-icon" id="svg-2" data-svg-icon="assets/images/svg/linea-basic-heart.svg"></div>-->
+                                <img src="../../assets/images/icons/service-06.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4 class="section-title mb-20">Подготовка к КТЛ,РФМЩ,НИШ</h4>
+                                <p>
+                                    Групповые занятия, от 1-2 месяцев до 5-6 мес. в зависимости от уровня<br>
+                                    2-3 раза в неделю.<br>
+                                    Занятия в группе (2000 тг/час) и индивидуально (3000 тг/час)<br>
+                                    Пробный урок 30-40 минут (1000тг. Обсуждаются все вопросы)<br>
+
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Single Service Box End -->
+                    </div>
                 </div>
             </div>
         </div>
         <!--============ Service Area End ============-->
 
 
+        <!--============ Working Process Area Start =================-->
+        <div class="working-process-area section-space--pb_120">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-8">
+                        <div class="section-title-wrap section-space--mb_60">
+                            <h6 class="section-sub-title">Как мы работаем</h6>
+                            <h3 class="mb-20 section-title">Быстро и <br> Оперативно</h3>
+                        </div>
+
+                        <div class="working-process-wrap tablet-mb__20">
+                            <div class="row">
+                                <div class="col-lg-3 col-md-3 col-6">
+                                    <div class="single-working-process">
+                                        <h3>01</h3>
+                                        <span>Проверяем <br> Ваш уровень</span>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-6">
+                                    <div class="single-working-process">
+                                        <h3>02</h3>
+                                        <span>Составляем <br> План</span>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-6">
+                                    <div class="single-working-process">
+                                        <h3>03</h3>
+                                        <span>Интенсивно <br> учимся и анализируем</span>
+                                    </div>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-6">
+                                    <div class="single-working-process">
+                                        <h3>04</h3>
+                                        <span>Практикуем и <br> Достигаем</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="working-process-images">
+                            <img class="img-fluid" src="../../assets/img/service1.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--============ Working Process Area End ==================-->
+
 
         <!--================= Testimonial Area Start ====================-->
-        <div class="testimonial-counter-area start-up-bg section-space--ptb_120">
+        <div class="testimonial-counter-area section-space--ptb_120">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="startup-features text-center" data-aos="fade-right">
-                            <img src="../../assets/images/features/startup-testimonal.png" class="img-fluid" alt="Startup image">
+                            <img src="assets/img/review.jpg" class="img-fluid" alt="Startup image">
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="testimonials-content-right-box tablet-mt__60 small-mt__60">
                             <div class="section-title-wrap section-space--mb_60">
-                                <h6 class="section-sub-title">Testimonials</h6>
-                                <h3 class="mb-20 section-title">Our Happy Client’s <br> say about us</h3>
-                                <h4 class="mb-20 font-weight--light">You can select me for your next project
-                                    beacuse I would like to</h4>
+                                <h6 class="section-sub-title">Отзывы</h6>
+                                <h3 class="mb-20 section-title">Отзывы <br>наших клиентво</h3>
+                                <h4 class="mb-20 font-weight--light">
+                                    Работаем ради лучшего результата
+                                </h4>
                             </div>
 
                             <!--====================  Testimonial Section Start ====================-->
@@ -295,8 +323,8 @@
                                             </div>
                                         </div>
                                         <!-- Add Arrows -->
-                                        <div class="swiper-nav-button swiper-button-next"><img src="../../assets/images/icons/testimonials-left-arrow.png" alt=""></div>
-                                        <div class="swiper-nav-button swiper-button-prev"><img src="../../assets/images/icons/testimonials-right-arrow.png" alt=""></div>
+                                        <div class="swiper-nav-button swiper-button-next"><img src="assets/images/icons/testimonials-left-arrow.png" alt=""></div>
+                                        <div class="swiper-nav-button swiper-button-prev"><img src="assets/images/icons/testimonials-right-arrow.png" alt=""></div>
 
                                     </div>
                                 </div>
@@ -309,30 +337,6 @@
             </div>
         </div>
         <!--================= Testimonial Area End ====================-->
-
-        <!--============= Brand Area Start ===============-->
-        <div class="brand-area section-space--pb_90 section-space--pt_120 ">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12 brand-box-wrap">
-                        <div class="single-brand-box">
-                            <a href="#"><img src="../../assets/images/brand/client-logo-01.png" alt=""></a>
-                        </div>
-                        <div class="single-brand-box">
-                            <a href="#"><img src="../../assets/images/brand/client-logo-02.png" alt=""></a>
-                        </div>
-                        <div class="single-brand-box">
-                            <a href="#"><img src="../../assets/images/brand/client-logo-03.png" alt=""></a>
-                        </div>
-                        <div class="single-brand-box">
-                            <a href="#"><img src="../../assets/images/brand/client-logo-04.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--============= Brand Area End ===============-->
-
 
 
 
