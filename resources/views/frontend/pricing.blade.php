@@ -2,15 +2,12 @@
 
 @section('content')
     <!-- breadcrumb-area start -->
-    <div class="creative_breadcrumb-area start_up_service-bg bg-img" data-bg="../../assets/images/bg/start-up-breadcrumb_bg.jpg">
+    <div class="creative_breadcrumb-area start_up_service-bg bg-img" data-bg="../../assets/images/bg/start-up-breadcrumb_bg.jpg" style="background-size: cover;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="breadcrumb_box text-left">
-                        <h2 class="breadcrumb-title text-color-primary mb-10">Pricing Package</h2>
-                        <p class="">Most popular typesetting, remaining are essentially <br>
-                            was pop ularised in the 1960s with the release of uncover <br>
-                            many web sites still in their fancy pesetting </p>
+
                     </div>
                 </div>
             </div>
@@ -26,23 +23,21 @@
                     <!-- Pricing Table Start -->
                     <div class="col-lg-4 col-md-6">
                         <div class="pricing-table__inner">
-                            <h5 class="price price__three">$35/m</h5>
+                            <h5 class="price price__three">1500 тг/час</h5>
                             <div class="pricing-table__header">
-                                <h3 class="pricing-table__title">Basic</h3>
+                                <h3 class="pricing-table__title">Курсы английского</h3>
                             </div>
                             <div class="pricing-table__price-wrap">
                                 <div class="pricing-table__body">
                                     <ul class="pricing-table__list">
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Up to 5 users</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Mobile Optimized</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Free Custom Domain</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Best Web Hosting</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Outstanding Support Team</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 5 Priority Job Listing</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 1500тг/час в группе или 2000тг/час индивидуально</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Курс длиться 1-2-3 месяца (в зависимости интенсивности)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 2-3 раза в неделю (решается после пробного урока)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Пробный урок 30-40 минут (стоимость 1000тг. Обсуждается все вопросы)</li>
                                     </ul>
                                 </div>
                                 <div class="pricing-table__footer">
-                                    <a href="#" class="ht-btn-icon-two">Select now</a>
+                                    <a href="#" class="ht-btn-icon-two">Записаться</a>
                                 </div>
                             </div>
 
@@ -52,23 +47,21 @@
                     <!-- Pricing Table Start -->
                     <div class="col-lg-4 col-md-6">
                         <div class="pricing-table__inner">
-                            <h5 class="price price__three">$52/m</h5>
+                            <h5 class="price price__three">2500 тг/час</h5>
                             <div class="pricing-table__header">
-                                <h3 class="pricing-table__title">Standard</h3>
+                                <h3 class="pricing-table__title">Курс IELTS <br><small>(9-11 кл.,студенты)</small></h3>
                             </div>
                             <div class="pricing-table__price-wrap">
                                 <div class="pricing-table__body">
                                     <ul class="pricing-table__list">
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Up to 15 users</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Mobile Optimized</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Free Custom Domain</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Best Web Hosting</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Outstanding Support Team</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 15 Priority Job Listing</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 2500тг/час в группе или 3000тг/час индивидуально</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Курс длиться 1-2-3 месяца (в зависимости интенсивности)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 2-3 раза в неделю (решается после пробного урока)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Пробный урок 30-40 минут (стоимость 1000тг. Обсуждается все вопросы)</li>
                                     </ul>
                                 </div>
                                 <div class="pricing-table__footer">
-                                    <a href="#" class="ht-btn-icon-two">Select now</a>
+                                    <a href="#" class="ht-btn-icon-two">Записаться</a>
                                 </div>
                             </div>
 
@@ -78,23 +71,93 @@
                     <!-- Pricing Table Start -->
                     <div class="col-lg-4 col-md-6">
                         <div class="pricing-table__inner">
-                            <h5 class="price price__three">$79/m</h5>
+                            <h5 class="price price__three">2000 тг/час</h5>
                             <div class="pricing-table__header">
-                                <h3 class="pricing-table__title">Premium</h3>
+                                <h3 class="pricing-table__title">Подготовка ЕНТ</h3><small>физ/матем/хим (9-11кл.)</small>
                             </div>
                             <div class="pricing-table__price-wrap">
-                                <div class="pricing-table__body">
+                                <div class="pricing-table__body m-0">
                                     <ul class="pricing-table__list">
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Up to 45 users</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Mobile Optimized</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Free Custom Domain</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Best Web Hosting</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Outstanding Support Team</li>
-                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 38 Priority Job Listing</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 2000тг/час в группе или 2500тг/час индивидуально</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> В группе можно готовиться от 1-2 мес. до 1-1,5 года (в зависимости от уровня)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 2-3 раза в неделю (решается после пробного урока)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Пробный урок 30-40 минут (стоимость 1000тг. Обсуждается все вопросы)</li>
                                     </ul>
                                 </div>
                                 <div class="pricing-table__footer">
-                                    <a href="#" class="ht-btn-icon-two">Select now</a>
+                                    <a href="#" class="ht-btn-icon-two">Записаться</a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- Pricing Table End -->
+                    <!-- Pricing Table Start -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="pricing-table__inner">
+                            <h5 class="price price__three">2500 тг/час</h5>
+                            <div class="pricing-table__header">
+                                <h5 class="pricing-table__title">Подготовка к международным экзаменам <br> NUFYPET, SAT, ACT (9-11 кл.)</h5><small>(математика, физика, Critical Thinking на англ. языке)</small>
+                            </div>
+                            <div class="pricing-table__price-wrap">
+                                <div class="pricing-table__body m-0">
+                                    <ul class="pricing-table__list">
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 2500тг/час в группе или 3000тг/час индивидуально</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> В группе можно готовиться от 1-2 мес. до 5-6 мес (в зависимости от уровня)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 2-3 раза в неделю (решается после пробного урока)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Пробный урок 30-40 минут (стоимость 1000тг. Обсуждается все вопросы)</li>
+                                    </ul>
+                                </div>
+                                <div class="pricing-table__footer">
+                                    <a href="#" class="ht-btn-icon-two">Записаться</a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- Pricing Table End -->
+                    <!-- Pricing Table Start -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="pricing-table__inner">
+                            <h5 class="price price__three">1500 тг/час</h5>
+                            <div class="pricing-table__header">
+                                <h3 class="pricing-table__title">Школьные предметы <br><small>(заполнение пробелов 1-9кл.)</small></h3>
+                            </div>
+                            <div class="pricing-table__price-wrap">
+                                <div class="pricing-table__body mt-3">
+                                    <ul class="pricing-table__list">
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 1500тг/час в группе или 2500тг/час индивидуально</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> В группе можно готовиться от 1-2мес до 1-1,5 года (в зависимости от уровня)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 2-3 раза в неделю (решается после пробного урока)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Пробный урок 30-40 минут (стоимость 1000тг. Обсуждается все вопросы)</li>
+                                    </ul>
+                                </div>
+                                <div class="pricing-table__footer">
+                                    <a href="#" class="ht-btn-icon-two">Записаться</a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <!-- Pricing Table End -->
+                    <!-- Pricing Table Start -->
+                    <div class="col-lg-4 col-md-6">
+                        <div class="pricing-table__inner">
+                            <h5 class="price price__three">2000 тг/час</h5>
+                            <div class="pricing-table__header">
+                                <h4 class="pricing-table__title">Подготовка к КТЛ/РФМШ/НИШ <br>(5-6 кл.)</h4>
+                            </div>
+                            <div class="pricing-table__price-wrap">
+                                <div class="pricing-table__body" style="margin-top: 50px">
+                                    <ul class="pricing-table__list">
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 2000тг/час в группе или 3000тг/час индивидуально</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> В группе можно готовиться от 1-2 мес. до 5-6 мес (в зависимости от уровня)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> 2-3 раза в неделю (решается после пробного урока)</li>
+                                        <li><img src="../../assets/images/icons/check-icon-sm.png" alt=""> Пробный урок 30-40 минут (стоимость 1000тг. Обсуждается все вопросы)</li>
+                                    </ul>
+                                </div>
+                                <div class="pricing-table__footer">
+                                    <a href="#" class="ht-btn-icon-two">Записаться</a>
                                 </div>
                             </div>
 
