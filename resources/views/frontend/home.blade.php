@@ -2,7 +2,7 @@
 
 @section("content")
 
-    <div class="site-wrapper-reveal overflow-hiden">
+
 
 
         <!--============ Hero Start ============-->
@@ -563,6 +563,6 @@
 
 
 
-    </div>
+
 
 @endsection

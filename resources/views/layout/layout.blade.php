@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Pero</title>
+    <title>Pero International Agency</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
@@ -58,7 +58,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-4 col-9">
-                    <p class="text-md-left top-message">Contact us: <a href="tel:132432432"> (+880) 01258 987 254</a></p>
+                    <p class="text-md-left top-message">Телефоны: <a href="tel:+77783558165 ">+7 778 355 8165  </a></p>
                 </div>
                 <div class="col-md-4 col-6  d-md-block d-none">
                     <p class="top-message text-md-center"><a href="mailto:info@example.com">info@example.com</a> </p>
@@ -73,16 +73,16 @@
                                 <ul>
                                     <li>
                                         <a href="#" class="">
-                                            Language:<span>ENG</span>
+                                            Напишите нам!
                                         </a>
 
                                         <ul class="ls-sub-menu">
                                             <li class="">
-                                                <a href="#"><span>Français</span>
+                                                <a href="https://api.whatsapp.com/send?phone=77783558165"><span>WhatsApp</span>
                                                 </a>
                                             </li>
                                             <li class="">
-                                                <a href="#"><span>Deutsch</span>
+                                                <a href="https://www.instagram.com/pero.agency/"><span>Instagramm</span>
                                                 </a>
                                             </li>
 
@@ -174,18 +174,16 @@
 
 
 
-
-
+<div class="site-wrapper-reveal overflow-hiden">
 @yield('content')
-
-
+</div>
 
 
 
 
 <!--====================  footer area ====================-->
 <div class="footer-area-wrapper ">
-    <div class="footer-area section-space--ptb_120 bg-img footer-bg--overlay" data-bg="assets/images/bg/footer-bg-01.jpg">
+    <div class="footer-area section-space--ptb_120 bg-img footer-bg--overlay" data-bg="assets/img/footer.jpg">
         <div class="container">
             <div class="row footer-widget-wrapper">
                 <div class="col-lg-4 col-md-12 col-sm-12 footer-widget">

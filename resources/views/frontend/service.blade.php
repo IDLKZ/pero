@@ -58,7 +58,7 @@
 
 
         <!--============ Service Area Start ============-->
-        <div class="services-wrapper services-hight section-space--pt_120 bg-img" data-bg="../../assets/images/bg/creative-service-bg.jpg">
+        <div class="services-wrapper services-hight section-space--pt_120 bg-img" data-bg="../../assets/img/service2.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
