@@ -6,7 +6,7 @@
     ================================*/
 
     new WOW().init();
-    
+
     /*=============================================
     =       Menu sticky & Scroll to top          =
     =============================================*/
@@ -55,7 +55,7 @@
         });
     }
     scrollToTop();
-    
+
     /*=========================================
     =            Preloader active            =
     ===========================================*/
@@ -63,39 +63,39 @@
     windows.on('load', function(){
         $(".preloader-activate").removeClass('preloader-active');
     });
-    
-    
+
+
     jQuery(window).on('load', function(){
 		setTimeout(function(){
         jQuery('.open_tm_preloader').addClass('loaded');
         }, 100);
 	});
-    
+
 
     /*=========================================
     =            One page nav active          =
     ===========================================*/
-    
+
     var top_offset = $('.navigation-menu--onepage').height() - 60;
     $('.navigation-menu--onepage ul').onePageNav({
         currentClass: 'active',
         scrollOffset: top_offset,
     });
-    
+
     var top_offset_mobile = $('.header-area').height();
     $('.offcanvas-navigation--onepage ul').onePageNav({
         currentClass: 'active',
         scrollOffset: top_offset_mobile,
     });
-    
-    
+
+
     /*===========================================
     =            Submenu viewport position      =
     =============================================*/
-    
+
     if ($(".has-children--multilevel-submenu").find('.submenu').length) {
         var elm = $(".has-children--multilevel-submenu").find('.submenu');
-        
+
         elm.each(function(){
             var off = $(this).offset();
             var l = off.left;
@@ -112,22 +112,22 @@
     /*==========================================
     =            mobile menu active            =
     ============================================*/
-    
+
     $("#mobile-menu-trigger").on('click', function(){
         $("#mobile-menu-overlay").addClass("active");
         $body.addClass('no-overflow');
     });
-    
+
     $("#mobile-menu-close-trigger").on('click', function(){
         $("#mobile-menu-overlay").removeClass("active");
         $body.removeClass('no-overflow');
     });
-    
+
     $(".offcanvas-navigation--onepage ul li a").on('click', function(){
         $("#mobile-menu-overlay").removeClass("active");
         $body.removeClass('no-overflow');
     });
-    
+
     /*Close When Click Outside*/
     $body.on('click', function(e){
         var $target = e.target;
@@ -140,8 +140,8 @@
             $body.removeClass('no-overflow');
         }
     });
-    
-    
+
+
     /*===================================
     =           Menu Activeion          =
     ===================================*/
@@ -161,8 +161,8 @@
         else
         $(".navigation-menu li a[href*='"+curpage+"']").parents("li").addClass("active");
     }
-    
-    
+
+
     /*=========================================
     =             open menu Active            =
     ===========================================*/
@@ -175,8 +175,8 @@
         e.preventDefault();
         $('.open-menuberger-wrapper').removeClass('is-visiable');
     });
-    
-      
+
+
     /*=========================================
     =             open menu Active            =
     ===========================================*/
@@ -184,56 +184,56 @@
         $("#page-oppen-off-sidebar-overlay").addClass("active");
         $body.addClass('no-overflow');
     });
-    
+
     $("#menu-close-trigger").on('click', function(){
         $("#page-oppen-off-sidebar-overlay").removeClass("active");
         $body.removeClass('no-overflow');
     });
-    
+
     /*=============================================
     =            search overlay active            =
     =============================================*/
-    
+
     $("#search-overlay-trigger").on('click', function(){
         $("#search-overlay").addClass("active");
         $body.addClass('no-overflow');
     });
-    
+
     $("#search-close-trigger").on('click', function(){
         $("#search-overlay").removeClass("active");
         $body.removeClass('no-overflow');
     });
-    
+
     /*=============================================
     =            hidden icon active            =
     =============================================*/
-    
+
     $("#hidden-icon-trigger").on('click', function(){
         $("#hidden-icon-wrapper").toggleClass("active");
     });
-    
+
 
     /*=============================================
     =            newsletter popup active            =
     =============================================*/
-    
+
     $("#newsletter-popup-close-trigger").on('click', function(){
         $("#newsletter-popup").removeClass("active");
     });
-    
+
 
     /*=============================================
     =            offcanvas mobile menu            =
     =============================================*/
     var $offCanvasNav = $('.offcanvas-navigation'),
         $offCanvasNavSubMenu = $offCanvasNav.find('.sub-menu');
-    
+
     /*Add Toggle Button With Off Canvas Sub Menu*/
     $offCanvasNavSubMenu.parent().prepend('<span class="menu-expand"><i></i></span>');
-    
+
     /*Close Off Canvas Sub Menu*/
     $offCanvasNavSubMenu.slideUp();
-    
+
     /*Category Sub Menu Toggle*/
     $offCanvasNav.on('click', 'li a, li .menu-expand', function(e) {
         var $this = $(this);
@@ -250,7 +250,7 @@
             }
         }
     });
-    
+
     /*==================================
     =	      Mesonry Activation       =
     ===================================*/
@@ -302,7 +302,7 @@
    /*=============================================
     =            swiper slider activation            =
     =============================================*/
- 
+
 
 $(document).ready(function(){
 
@@ -344,7 +344,7 @@ $(document).ready(function(){
         }
     });
 
-    
+
     var carouselSlider = new Swiper('.testimonial-slider__container-two', {
         slidesPerView : 1,
         slidesPerGroup: 1,
@@ -380,7 +380,7 @@ $(document).ready(function(){
             }
         }
     });
-    
+
     var carouselSlider = new Swiper('.testimonial-slider__container-three', {
         slidesPerView : 2,
         slidesPerGroup: 1,
@@ -465,7 +465,7 @@ $(document).ready(function(){
             },
         },
         breakpoints: {
-            
+
             991:{
                 slidesPerView : 1
             },
@@ -479,9 +479,9 @@ $(document).ready(function(){
                 slidesPerView : 1
             }
         }
-    });  
-        
-    var carouselSlider = new Swiper('.vertical-slider__container ', { 
+    });
+
+    var carouselSlider = new Swiper('.vertical-slider__container ', {
         slidesPerView : 2,
         spaceBetween: 0,
         autoplay: true,
@@ -494,10 +494,10 @@ $(document).ready(function(){
             type: 'bullets',
             clickable: true
         },
-        
-    });    
-        
-        
+
+    });
+
+
     var carouselSlider = new Swiper('.statup-slider__container', {
         slidesPerView : 3,
         slidesPerGroup: 1,
@@ -530,11 +530,11 @@ $(document).ready(function(){
                 slidesPerView : 1
             }
         }
-    });  
+    });
     var carouselSlider = new Swiper('.personal-portfolio-slider__container', {
         slidesPerView: 'auto',
         centeredSlides: true,
-        freeMode: false,    
+        freeMode: false,
         slidesPerGroup: 1,
         slidesPerView : 2,
         loop: true,
@@ -567,12 +567,12 @@ $(document).ready(function(){
                 slidesPerView : 1
             }
         }
-    });    
-      
+    });
+
     var carouselSlider = new Swiper('.personal-portfolio-two-slider__container', {
         slidesPerView: 'auto',
         centeredSlides: true,
-        freeMode: false,    
+        freeMode: false,
         slidesPerGroup: 1,
         slidesPerView : 3,
         loop: true,
@@ -605,12 +605,12 @@ $(document).ready(function(){
                 slidesPerView : 1
             }
         }
-    });    
-            
-        
+    });
+
+
     /*=====  End of swiper slider activation  ======*/
     });
-    
+
 
     /*======================================
      Product Details 2 Images Slider
@@ -678,7 +678,7 @@ $(document).ready(function(){
         ]
         });
     });
-    
+
     /*======================================
         Cart Plus Minus Button
     ======================================*/
@@ -697,10 +697,10 @@ $(document).ready(function(){
           }
           }
         $button.parent().find("input").val(newVal);
-      }); 
-    
+      });
+
     /*======================================
-    =       Countdown Activation          =     
+    =       Countdown Activation          =
     ======================================*/
 	$('[data-countdown]').each(function () {
 		var $this = $(this),
@@ -709,7 +709,7 @@ $(document).ready(function(){
 			$this.html(event.strftime('<div class="single-countdown"><span class="single-countdown__time">%D</span><span class="single-countdown__text">Days</span></div><div class="single-countdown"><span class="single-countdown__time">%H</span><span class="single-countdown__text">Hours</span></div><div class="single-countdown"><span class="single-countdown__time">%M</span><span class="single-countdown__text">Minutes</span></div><div class="single-countdown"><span class="single-countdown__time">%S</span><span class="single-countdown__text">Seconds</span></div>'));
 		});
 	});
-    
+
     /*=============================================
     =            counter up active            =
     =============================================*/
@@ -717,8 +717,8 @@ $(document).ready(function(){
         delay: 10,
         time: 1000
     });
-   
-    /*=================================- 
+
+    /*=================================-
     =        Scroll Up Color Change    =
     ==================================-*/
     $('.slide-scroll-bg').height('.slide-scroll-bg').scrollie({
@@ -730,10 +730,10 @@ $(document).ready(function(){
 
         }
     });
-        
+
 /*----------
     price-slider active
--------------------------------*/  
+-------------------------------*/
 $( "#price-slider" ).slider({
    range: true,
    min: 0,
@@ -744,15 +744,15 @@ $( "#price-slider" ).slider({
         $( "#max-price" ).val('$' + ui.values[ 1 ] );
      }
   });
-  $( "#min-price" ).val('$' + $( "#price-slider" ).slider( "values", 0 ));   
-  $( "#max-price" ).val('$' + $( "#price-slider" ).slider( "values", 1 )); 
-    
+  $( "#min-price" ).val('$' + $( "#price-slider" ).slider( "values", 0 ));
+  $( "#max-price" ).val('$' + $( "#price-slider" ).slider( "values", 1 ));
+
     /*--
         showlogin toggle function
     --------------------------*/
     $( '#showlogin' ).on('click', function() {
         $('#checkout-login' ).slideToggle(500);
-    }); 
+    });
 
     /*--
         showcoupon toggle function
@@ -762,25 +762,25 @@ $( "#price-slider" ).slider({
     });
 
     /*--
-        Checkout 
+        Checkout
     --------------------------*/
     $("#chekout-box").on("change",function(){
         $(".account-create").slideToggle("100");
     });
 
-    /*-- 
-        Checkout 
+    /*--
+        Checkout
     ---------------------------*/
     $("#chekout-box-2").on("change",function(){
         $(".ship-box-info").slideToggle("100");
-    });   
-    
+    });
+
     /* ====================================
     =       All Animation For Fade Up      =
     =======================================*/
     $(window).on('load', function () {
         // AOS Animation
-        if ($("[data-aos]").length) { 
+        if ($("[data-aos]").length) {
             AOS.init({
             duration: 1000,
             mirror: true
@@ -789,5 +789,16 @@ $( "#price-slider" ).slider({
     })
 
 
+
 })(jQuery);
+const mySwiper = new Swiper('.main-slider', {
+    loop:true,
+    autoplay: {
+        delay: 4000,
+    },
+
+    speed:1200,
+    effect:"coverflow"
+});
+
 

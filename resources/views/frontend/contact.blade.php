@@ -50,8 +50,11 @@
                                         <img src="../../assets/images/icons/contact-map.png" class="img-fluid" alt="">
                                     </div>
                                     <div class="content">
-                                        <h5 class="mb-10 theme-color-default">Адресс</h5>
-                                        <p>Работаем онлайн!</p>
+                                        <h5 class="mb-10 theme-color-default">Работаем онлайн!</h5>
+                                        <a href="https://www.instagram.com/pero.agency/"><i class="fa fa-instagram"></i> Мы в инстаграмме!</a><br>
+                                        <a href="https://api.whatsapp.com/send?phone=77783558165"><i class="fa fa-whatsapp"></i> Мы в WhatsApp!</a><br>
+                                        <a href=""><i class="fa fa-linkedin"></i> Мы в Linkedin!</a>
+
                                     </div>
                                 </div>
                             </div>
@@ -61,7 +64,7 @@
                                         <img src="../../assets/images/icons/contact-call.png" class="img-fluid" alt="">
                                     </div>
                                     <div class="content">
-                                        <h5 class="mb-10 theme-color-default">Телефоны</h5>
+                                        <h5 class="mb-10 theme-color-default">Мы в WhatsApp</h5>
                                         <p> +7 778 355 8165</p>
                                     </div>
                                 </div>
@@ -75,7 +78,7 @@
                                         <h5 class="mb-10 theme-color-default">Web</h5>
                                         <p>
                                             <a href="#">info@example.com</a> <br>
-                                            <a href="#">www.example.com</a>
+                                            <a href="#">www.pero.kz</a>
                                         </p>
                                     </div>
                                 </div>
@@ -88,7 +91,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="contact-us-form">
-                            <form id="contact-form" action="../../assets/php/mail.php" method="post">
+                            <form id="contact-form" action="/sendmail" method="post">
                                 <div class="contact-form__three mr-lg-5">
 
                                     <div class="contact-title section-space--mb_30">
@@ -97,19 +100,19 @@
 
                                     <div class="contact-input input-row">
                                         <div class="contact-inner input-col-5">
-                                            <input name="con_name" type="text" placeholder="Ваше имя *">
+                                            <input name="name" type="text" placeholder="Ваше имя *">
                                         </div>
                                         <div class="contact-inner input-col-5">
-                                            <input name="con_email" type="email" placeholder="Email *">
+                                            <input name="email" type="email" placeholder="Email *">
                                         </div>
                                     </div>
                                     <div class="contact-input">
                                         <div class="contact-inner">
-                                            <input name="con_email" type="text" placeholder="Тема">
+                                            <input name="subject" type="text" placeholder="Тема">
                                         </div>
                                     </div>
                                     <div class="contact-inner contact-message">
-                                        <textarea name="con_message" placeholder="Сообщение*"></textarea>
+                                        <textarea name="message" placeholder="Сообщение*"></textarea>
                                     </div>
                                     <div class="comment-submit-btn text-right">
                                         <button class="ht-btn ht-btn-sm personal-contact-btn" type="submit">Отправить</button>

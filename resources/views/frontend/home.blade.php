@@ -7,9 +7,9 @@
 
         <!--============ Hero Start ============-->
         <div class="hero-slider-wrap start-up-hero-wrap">
-            <div class="swiper-container hero-flexible__container">
+            <div class="swiper-container hero-flexible__container main-slider">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide">
+                    <div class="swiper-slide"  >
                         <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg1.jpg">
                             <div class="container">
                                 <div class="row align-items-center">
@@ -19,7 +19,7 @@
                                             <h4 class="text-color-secondary mb-10">Pero International Agency</h4>
                                             <h1 class="font-weight--bold mb-15 section-title">Поможем  <br> Вам  <br> достичь Ваших целей</h1>
                                             <div class="hero-button mt-30">
-                                                <a href="" class="ht-btn ht-btn-lg font-weight--bold">Записаться</a>
+                                                <a href="{{route("contact")}}" class="ht-btn ht-btn-lg font-weight--bold">Записаться</a>
                                             </div>
                                         </div>
                                     </div>
@@ -27,7 +27,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
+                    <div class="swiper-slide" >
                         <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg2.jpg">
                             <div class="container">
                                 <div class="row align-items-center">
@@ -37,7 +37,7 @@
                                             <h4 class="text-color-secondary mb-10">Pero International Agency</h4>
                                             <h1 class="font-weight--bold mb-15 section-title">Учись  <br>собственном темпе <br> Онлайн</h1>
                                             <div class="hero-button mt-30">
-                                                <a href="" class="ht-btn ht-btn-lg font-weight--bold">Наши курсы</a>
+                                                <a href="{{route("service")}}" class="ht-btn ht-btn-lg font-weight--bold">Наши курсы</a>
                                             </div>
                                         </div>
                                     </div>
@@ -45,7 +45,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
+                    <div class="swiper-slide" >
                         <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg3.jpg">
                             <div class="container">
                                 <div class="row align-items-center">
@@ -55,7 +55,7 @@
                                             <h4 class="text-color-secondary mb-10">Pero International Agency</h4>
                                             <h1 class="font-weight--bold mb-15 section-title">Только <br> лучшие учителя <br></h1>
                                             <div class="hero-button mt-30">
-                                                <a href="" class="ht-btn ht-btn-lg font-weight--bold">О нас</a>
+                                                <a href="{{route("about")}}" class="ht-btn ht-btn-lg font-weight--bold">О нас</a>
                                             </div>
                                         </div>
                                     </div>
@@ -160,7 +160,7 @@
                         <div class="about-us-content about-us-offset-right position-relative x-index-1 small-mt__40 tablet-mt__40">
                             <div class="section-title-wrap">
                                 <h6 class="section-sub-title">Pero International Agency</h6>
-                                <h3 class="mb-20 section-title">Указываем дорогу к вашим знаниям</h3>
+                                <h3 class="mb-20 section-title">Поможем осуществить Вашу мечту</h3>
                                 <h4 class="mb-20 font-weight--light"><span class="text-size-lg font-weight-bold text-color-secondary">Pero </span> - анализируем, создаем, практикуем</h4>
                                 <p class="mb-20 font-weight--light">
                                     Pero - занимается широким спектром обучения. Мы готовим к поступлению в РФМШ,НИШ,КТЛ.
@@ -177,7 +177,7 @@
                                 </p>
 
                                 <div class="about-us-btn-box">
-                                    <a href="#" class="ht-btn ht-btn-sm">О нас</a>
+                                    <a href="{{route("about")}}" class="ht-btn ht-btn-sm">О нас</a>
                                 </div>
                             </div>
                         </div>
