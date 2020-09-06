@@ -91,7 +91,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="contact-us-form">
-                            <form id="contact-form" action="{{route("sendmail")}}" method="post">
+                            <form  action="{{route("sendmail")}}" method="post">
                                 <div class="contact-form__three mr-lg-5">
 
                                     <div class="contact-title section-space--mb_30">

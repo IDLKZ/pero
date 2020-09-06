@@ -32,10 +32,10 @@ class FrontendController extends Controller
         $_SESSION['email'] = $request->get('email');
         $_SESSION['subject'] = $request->get('subject');
         $_SESSION['message'] = $request->get('message');
-//        Mail::send("mail.mail",["title"=>"Заявка с сайта"],function ($message) use ($request){
-//            $message->to("idlkz2019@gmail.com","Заявка с сайта");
-//            $message->from('info@weplay.kz', "Заказчик: {$request->get('name')} \n  Почта: {$request->get('email')} \n Тема: {$request->get('subject')}")->subject('Заказ с сайта');
-//        });
+        Mail::send("mail.mail",["title"=>"Заявка с сайта"],function ($message) use ($request){
+            $message->to("idlkz2019@gmail.com","Заявка с сайта");
+            $message->from('info@weplay.kz', "Заказчик: {$request->get('name')} \n  Почта: {$request->get('email')} \n Тема: {$request->get('subject')}")->subject('Заказ с сайта');
+        });
 
         return view("frontend.result");
     }
