@@ -135,25 +135,17 @@
                             </div>
                             <div class="team-content">
                                 <div class="text-box">
-                                    <h4>Micel Jingala</h4>
-                                    <p>CEO & Founder</p>
+                                    <h4>Айнур Бакытжанова</h4>
+                                    <p>Репетитор по математике и 1-11 классов, Основатель PERO</p>
                                 </div>
                             </div>
                             <div class="social-creative-box">
                                 <div class="social-share-wrap">
                                     <ul class="list ht-social-networks style-three">
                                         <li class="item">
-                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                            <a href="https://www.instagram.com/a.abilbayeva/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
                                         </li>
-                                        <li class="item">
-                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
-                                        </li>
+
                                     </ul>
                                 </div>
                             </div>
@@ -168,25 +160,17 @@
                             </div>
                             <div class="team-content">
                                 <div class="text-box">
-                                    <h4>Micel Jingala</h4>
-                                    <p>CEO & Founder</p>
+                                    <h4>Бекасыл Батталгазы</h4>
+                                    <p>Консультант по поступлению заграницу, репетитор физики и математики</p>
                                 </div>
                             </div>
                             <div class="social-creative-box">
                                 <div class="social-share-wrap">
                                     <ul class="list ht-social-networks style-three">
                                         <li class="item">
-                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                            <a href="https://www.instagram.com/bekassyl.battalgazy/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
                                         </li>
-                                        <li class="item">
-                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
-                                        </li>
+
                                     </ul>
                                 </div>
                             </div>
@@ -201,7 +185,7 @@
                             </div>
                             <div class="team-content">
                                 <div class="text-box">
-                                    <h4>Micel Jingala</h4>
+                                    <h4>Еркежан Болатбекова</h4>
                                     <p>CEO & Founder</p>
                                 </div>
                             </div>
@@ -209,17 +193,9 @@
                                 <div class="social-share-wrap">
                                     <ul class="list ht-social-networks style-three">
                                         <li class="item">
-                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
                                         </li>
-                                        <li class="item">
-                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
-                                        </li>
+
                                     </ul>
                                 </div>
                             </div>
@@ -234,24 +210,15 @@
                             </div>
                             <div class="team-content">
                                 <div class="text-box">
-                                    <h4>Micel Jingala</h4>
-                                    <p>CEO & Founder</p>
+                                    <h4>Салтанат Ермаханова</h4>
+                                    <p>Репетитор математики и физики</p>
                                 </div>
                             </div>
                             <div class="social-creative-box">
                                 <div class="social-share-wrap">
                                     <ul class="list ht-social-networks style-three">
                                         <li class="item">
-                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
+                                            <a href="https://www.instagram.com/thegirlfrommars___/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -267,25 +234,17 @@
                             </div>
                             <div class="team-content">
                                 <div class="text-box">
-                                    <h4>Micel Jingala</h4>
-                                    <p>CEO & Founder</p>
+                                    <h4>Сабина Кумарова</h4>
+                                    <p>Репетитор математики и английского языка</p>
                                 </div>
                             </div>
                             <div class="social-creative-box">
                                 <div class="social-share-wrap">
                                     <ul class="list ht-social-networks style-three">
                                         <li class="item">
-                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                            <a href="https://www.instagram.com/kumarovasss" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
                                         </li>
-                                        <li class="item">
-                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
-                                        </li>
+
                                     </ul>
                                 </div>
                             </div>
@@ -300,7 +259,7 @@
                             </div>
                             <div class="team-content">
                                 <div class="text-box">
-                                    <h4>Micel Jingala</h4>
+                                    <h4>Раушан Ескендирова</h4>
                                     <p>CEO & Founder</p>
                                 </div>
                             </div>
@@ -308,17 +267,9 @@
                                 <div class="social-share-wrap">
                                     <ul class="list ht-social-networks style-three">
                                         <li class="item">
-                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
                                         </li>
-                                        <li class="item">
-                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
-                                        </li>
+
                                     </ul>
                                 </div>
                             </div>
@@ -333,7 +284,7 @@
                             </div>
                             <div class="team-content">
                                 <div class="text-box">
-                                    <h4>Micel Jingala</h4>
+                                    <h4>Жансая Нуржаубаева</h4>
                                     <p>CEO & Founder</p>
                                 </div>
                             </div>
@@ -341,17 +292,10 @@
                                 <div class="social-share-wrap">
                                     <ul class="list ht-social-networks style-three">
                                         <li class="item">
-                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
                                         </li>
-                                        <li class="item">
-                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
-                                        </li>
-                                        <li class="item">
-                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
-                                        </li>
+
+
                                     </ul>
                                 </div>
                             </div>

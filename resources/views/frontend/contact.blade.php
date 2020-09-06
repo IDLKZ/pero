@@ -91,7 +91,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="contact-us-form">
-                            <form id="contact-form" action="/sendmail" method="post">
+                            <form id="contact-form" action="{{route("sendmail")}}" method="post">
                                 <div class="contact-form__three mr-lg-5">
 
                                     <div class="contact-title section-space--mb_30">
@@ -100,15 +100,15 @@
 
                                     <div class="contact-input input-row">
                                         <div class="contact-inner input-col-5">
-                                            <input name="name" type="text" placeholder="Ваше имя *">
+                                            <input name="name" type="text" placeholder="Ваше имя *" required>
                                         </div>
                                         <div class="contact-inner input-col-5">
-                                            <input name="email" type="email" placeholder="Email *">
+                                            <input name="email" type="email" placeholder="Email *" required>
                                         </div>
                                     </div>
                                     <div class="contact-input">
                                         <div class="contact-inner">
-                                            <input name="subject" type="text" placeholder="Тема">
+                                            <input name="subject" type="text" placeholder="Тема" required>
                                         </div>
                                     </div>
                                     <div class="contact-inner contact-message">

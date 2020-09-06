@@ -16,3 +16,4 @@ $router->get('/about',["as"=>"about","uses"=>"FrontendController@about"]);
 $router->get('/service',["as"=>"service","uses"=>"FrontendController@service"]);
 $router->get('/pricing',["as"=>"pricing","uses"=>"FrontendController@pricing"]);
 $router->get('/contact',["as"=>"contact","uses"=>"FrontendController@contact"]);
+$router->post('/sendmail',["as"=>"sendmail","uses"=>"FrontendController@sendmail"]);
