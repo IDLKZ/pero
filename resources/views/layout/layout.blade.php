@@ -320,7 +320,7 @@
                         <a href="/"><span>Главная</span></a>
                     </li>
                     <li class="has-children">
-                        <a href="{{route("about")}}"><span>Отзывы</span></a>
+                        <a href="{{route("about")}}"><span>О нас</span></a>
                     </li>
                     <li class="has-children has-children--multilevel-submenu">
                         <a href="{{route("service")}}"><span>Курсы</span></a>
