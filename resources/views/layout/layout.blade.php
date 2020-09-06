@@ -83,7 +83,7 @@
                                                 </a>
                                             </li>
                                             <li class="">
-                                                <a href="https://www.instagram.com/pero.agency/"><span>Instagramm</span>
+                                                <a href="https://www.instagram.com/pero.agency/"><span>Instagram</span>
                                                 </a>
                                             </li>
 
