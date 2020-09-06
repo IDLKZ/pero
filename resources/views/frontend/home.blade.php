@@ -85,7 +85,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="ht-service-box style-05 text-center">
                             <div class="service-icon" data-aos="zoom-in-down">
-                                <img style="height: 150px; width: 150px" src="assets/img/adv1.jpg" alt="">
+                                <img style="height: 150px; width: 150px" src="assets/img/img1.jpg" alt="">
                             </div>
                             <div class="service-content">
                                 <h4 class="section-title mb-10">Качественные знания</h4>
@@ -100,7 +100,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="ht-service-box style-05 active text-center">
                             <div class="service-icon" data-aos="zoom-in-down">
-                                <img style="height: 150px; width: 150px" src="/assets/img/adv2.jpg" alt="">
+                                <img style="height: 150px; width: 150px" src="/assets/img/img2.jpg" alt="">
                             </div>
                             <div class="service-content">
                                 <h4 class="section-title mb-10">Практика</h4>
@@ -114,7 +114,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="ht-service-box style-05 text-center">
                             <div class="service-icon" data-aos="zoom-in-down">
-                                <img style="height: 150px; width: 150px" src="/assets/img/adv3.jpg" alt="">
+                                <img style="height: 150px; width: 150px" src="/assets/img/img3.jpg" alt="">
                             </div>
                             <div class="service-content">
                                 <h4 class="section-title mb-10">Анализируй</h4>
@@ -129,7 +129,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-6">
                         <div class="ht-service-box style-05 text-center">
                             <div class="service-icon" data-aos="zoom-in-down">
-                                <img style="height: 150px; width: 150px" src="/assets/img/adv4.jpg" alt="">
+                                <img style="height: 150px; width: 150px" src="/assets/img/img4.jpg" alt="">
                             </div>
                             <div class="service-content">
                                 <h4 class="section-title mb-10">Готовность</h4>
