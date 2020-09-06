@@ -21,325 +21,466 @@
     <!-- breadcrumb-area end -->
 
     <!--============ About Area Start ============-->
-    <div class="about-wrapper section-space--pb_120 section-space--pt_90 start-up-patterns-image-01">
+    <!--============ Personal Skill Area Start ============-->
+    <div class="personal-skill-area" style="padding: 50px 0">
         <div class="container">
-            <div class="row align-items-center">
-
-                <div class="col-lg-6 dots-offset">
-                    <div class="about-image" data-aos="fade-right">
-                        <div class="inner-images">
-                            <img class="about-img img-fluid" src="/assets/img/pero.jpg" alt="About Image">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="about-us-content about-us-offset-right position-relative x-index-1 small-mt__40 tablet-mt__40">
+            <div class="row align-items-end">
+                <div class="col-lg-7 order-2 order-lg-1">
+                    <div class="personal-skill-content-box-two small-mt__30 tablet-mt__30">
                         <div class="section-title-wrap">
                             <h6 class="section-sub-title">Pero International Agency</h6>
-                            <h3 class="mb-20 section-title">Указываем дорогу к вашим знаниям</h3>
-                            <h4 class="mb-20 font-weight--light"><span class="text-size-lg font-weight-bold text-color-secondary">Pero </span> - анализируем, создаем, практикуем</h4>
-                            <p class="mb-20 font-weight--light">
-                                Pero - занимается широким спектром обучения. Мы готовим к поступлению в РФМШ,НИШ,КТЛ.
-                                Подготовка к международным экзаменам на английском языке SAT,NUFYPET,ACT.
-                                Готовим к ЕНТ, помогаем закрыть пробелы школьных знаний
-                            </p>
-                            <p class="mb-15 font-weight--normal font-italic">
-                                Курсы английского языка от Beginner до Advanced.
-                                Готовим к международному экзамену IELTS
-                            </p>
-                            <p class="mb-40 font-weight--light">
-                                Все занятия проходят в онлайн режиме, где ты можешь выбрать свой темп обучения!
-                                А наш центр сделает все, чтобы ты успешно достиг своих целей!
-                            </p>
+                            <h3 class="mb-20 section-title">В чем мы сильны!</h3>
+                        </div>
 
+                        <div class="personal-skill-progress section-space--mt_60">
+                            <div class="row">
+                                <div class="col-lg-6">
+                                    <div class="progress-bar--one section-space--mb_40">
+                                        <!-- Start Single Progress Charts -->
+                                        <div class="progress-charts">
+                                            <h6 class="heading ">Английский язык</h6>
+                                            <div class="progress">
+                                                <div class="progress-bar wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".3s" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <!-- End Single Progress Charts -->
 
+                                        <!-- Start Single Progress Charts -->
+                                        <div class="progress-charts">
+                                            <h6 class="heading ">Подготовка к международным экзаменам</h6>
+                                            <div class="progress">
+                                                <div class="progress-bar wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay=".5s" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <!-- End Single Progress Charts -->
+
+                                        <!-- Start Single Progress Charts -->
+                                        <div class="progress-charts ">
+                                            <h6 class="heading ">Естественные науки</h6>
+                                            <div class="progress">
+                                                <div class="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".8s" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <!-- End Single Progress Charts -->
+                                    </div>
+                                </div>
+                                <div class="col-lg-6">
+                                    <div class="progress-bar--two section-space--mb_40">
+                                        <!-- Start Single Progress Charts -->
+                                        <div class="progress-charts">
+                                            <h6 class="heading ">Гуманитарные науки</h6>
+                                            <div class="progress">
+                                                <div class="progress-bar wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay=".3s" role="progressbar" style="width: 94%" aria-valuenow="94" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <!-- End Single Progress Charts -->
+
+                                        <!-- Start Single Progress Charts -->
+                                        <div class="progress-charts">
+                                            <h6 class="heading ">Подготовка к поступлению</h6>
+                                            <div class="progress">
+                                                <div class="progress-bar wow fadeInLeft" data-wow-duration="0.7s" data-wow-delay=".5s" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <!-- End Single Progress Charts -->
+
+                                        <!-- Start Single Progress Charts -->
+                                        <div class="progress-charts ">
+                                            <h6 class="heading ">IELTS</h6>
+                                            <div class="progress">
+                                                <div class="progress-bar wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay=".8s" role="progressbar" style="width: 94%" aria-valuenow="94" aria-valuemin="0" aria-valuemax="100"></div>
+                                            </div>
+                                        </div>
+                                        <!-- End Single Progress Charts -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="personal-info-box-two">
+                            <h4 class="theme-color-default">
+                                <span class="theme-color-secondary">Напишите нам по WhatsApp! Мы онлайн  -  </span><br>
+                                <span>WhatsApp<a href="https://api.whatsapp.com/send?phone=77783558165">+77783558165</a></span>
+                            </h4>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-5 order-1 order-lg-2">
+                    <div class="personal-skill-right-images ml-auto text-center mr-auto  float-lg-right float-md-none personal-box-skill">
+                        <div class="img-box">
+                            <img src="../../assets/img/team.jpg" class="img-fluid" alt="About Image">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+    <!--============ Personal Skill Area End ============-->
     <!--============ About Area End ============-->
 
 
-    <!--============ Business Solutions Area Start ============-->
-    <div class="business-solutions-area section-space--pb_120 start-up-patterns-image-02">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-title-wrap text-left mb-20">
-                        <h6 class="section-sub-title">Что мы предлагаем?</h6>
-                        <h3 class="section-title">Лучшие знания  <br>только для Вас</h3>
-                    </div>
-                </div>
-            </div>
+    <div class="site-wrapper-reveal pt-5">
 
-        </div>
-        <div class="container-fluid cou-container-device">
-            <div class="row align-items-center">
-                <div class="col-lg-6 col-md-12">
-                    <div class="row col-06__left float-lg-right ">
-                        <!-- service-area Start -->
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="ht-service-box style-solutions">
-                                <div class="service-icon" data-aos="zoom-in-up">
-                                    <img style="height: 150px; width: 150px" src="assets/img/offer1.jpg" alt="">
-                                </div>
-                                <div class="service-content">
-                                    <h4 class="section-title mb-10">Подготовка к поступлению</h4>
-                                    <p>
-                                        Готовим к поступлению в НИШ,РФМШ,КТЛ,
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- service-area End -->
-                        <!-- service-area Start -->
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="ht-service-box style-solutions">
-                                <div class="service-icon" data-aos="zoom-in-up">
-                                    <img style="height: 150px; width: 150px" src="assets/img/offer2.jpg" alt="">
-                                </div>
-                                <div class="service-content">
-                                    <h4 class="section-title mb-10">Английский язык</h4>
-                                    <p>
-                                        Уровни от Beginner до Advanced
-                                        Подготовка к сдаче IELTS
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- service-area End -->
-                        <!-- service-area Start -->
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="ht-service-box style-solutions">
-                                <div class="service-icon" data-aos="zoom-in-up">
-                                    <img style="height: 150px; width: 150px" src="assets/img/offer3.jpg" alt="">
-                                </div>
-                                <div class="service-content">
-                                    <h4 class="section-title mb-10">Экзамены</h4>
-                                    <p>
-                                        Сдача международным экзаменов NYFYPET,SAT,ACT
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- service-area End -->
-                        <!-- service-area Start -->
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                            <div class="ht-service-box style-solutions">
-                                <div class="service-icon" data-aos="zoom-in-up">
-                                    <img style="height: 150px; width: 150px" src="assets/img/offer4.jpg" alt="">
-                                </div>
-                                <div class="service-content">
-                                    <h4 class="section-title mb-10">ЕНТ</h4>
-                                    <p>
-                                        Подготовка к сдаче ЕНТ.
-                                        Поможем покрыть школьные пробелы в знаниях.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- service-area End -->
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-12">
-                    <div class="features-images tablet-mt__40 small-mt__40" data-aos="fade-left">
-                        <img class="img-fluid" src="assets/img/offer.jpg" alt="Start up image">
-                    </div>
-                </div>
-            </div>
-
-        </div>
-
-    </div>
-    <!--============ Business Solutions Area End ============-->
-
-    <!--============ project Area Start ============-->
-    <div class="start-up-project-area section-space--ptb_120 start-up-bg startup-project-section-bg">
-        <div class="container-fluid cou-container-device">
-            <div class="row">
-                <div class="col-xl-5 col-lg-5">
-                    <div class="features-images text-right  tablet-mt__40 small-mt__40" data-aos="fade-right">
-                        <img class="img-fluid" src="assets/img/result.jpg" alt="Start up image">
-                    </div>
-                </div>
-                <div class="col-xl-7 col-lg-7">
-                    <div class="start-up-right-740 float-left">
-
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="section-title-wrap text-left mb-20">
-                                    <h6 class="section-sub-title">Наши результаты</h6>
-                                    <h3 class="section-title">Результаты и наша работа <br> </h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-12 slider-wrap ">
-                                <div class="swiper-container statup-slider__container">
-                                    <div class="swiper-wrapper">
-                                        <div class="swiper-slide">
-                                            <div class="startup-project-wrap">
-                                                <a href="#">
-                                                    <img  style="width: 200px;height: 240px" src="assets/img/result1.jpg" alt="">
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="startup-project-wrap">
-                                                <a href="#">
-                                                    <img style="width: 200px;height: 240px" src="assets/img/result2.jpg" alt="">
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="swiper-slide">
-                                            <div class="startup-project-wrap">
-                                                <a href="#">
-                                                    <img style="width: 200px;height: 240px" src="assets/img/result3.jpg" alt="">
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- Add Arrows -->
-                                </div>
-
-                                <div class="swiper-pagination mt-30 pagination-project-1"></div>
-                            </div>
-                            <!--============ Hero End ============-->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-    <!--============ project Area End ============-->
-
-
-    <!--============ Team Area Start ============-->
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-lg-5 pr-xl-0">
-                <div class="about-us-content about-us-offset-right position-relative x-index-1">
-                    <div class="section-title-wrap">
-                        <h6 class="section-sub-title">Наша команда</h6>
-                        <h3 class="mb-20 section-title">Команда <br> профессионалов</h3>
-                        <p class="mb-20 font-weight--light">
-                            У нас работают люди, любящие свое дело - настоящие профессионалы и энтузиасты своего дела
-                        </p>
-                        <p class="mb-40 font-weight--normal font-italic">
-                            Учитель - инженер человеческой души <br>
-                            М.И.Калинин
-                        </p>
-
-                        <div class="about-us-btn-box">
-                            <a href="#" class="ht-btn ht-btn-sm">Наша команда</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-7 pl-xl-0">
-
-                <div class="tab-content ht-tab__content-two section-space--mt_80">
-
-                    <div class="tab-pane active">
+        <!--=========== Team Area Start ==========-->
+        <div class="team-area section-space--pt_10 section-space--pb_90">
+            <div class="container text-center">
+                <h3 class="mb-20 section-title">Наша команда!</h3>
+                <div class="row pt-5">
+                    <div class="col-lg-3 col-md-6 col-sm-6">
                         <!-- single-team-box Start -->
-                        <div class="single-team-box style-02 mt-30">
+                        <div class="single-team-box style-01">
                             <div class="team-image">
-                                <img src="assets/img/team.jpg" style="width:281px;height:302px"  class="img-fluid" alt="Team Image">
+                                <img class="img-fluid" src="../../assets/img/teammate1.jpg" alt="Team Image">
                             </div>
-
+                            <div class="team-content">
+                                <div class="text-box">
+                                    <h4>Micel Jingala</h4>
+                                    <p>CEO & Founder</p>
+                                </div>
+                            </div>
+                            <div class="social-creative-box">
+                                <div class="social-share-wrap">
+                                    <ul class="list ht-social-networks style-three">
+                                        <li class="item">
+                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- single-team-box Start -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <!-- single-team-box Start -->
+                        <div class="single-team-box style-01">
+                            <div class="team-image">
+                                <img class="img-fluid" src="../../assets/img/teammate2.jpg" alt="Team Image">
+                            </div>
+                            <div class="team-content">
+                                <div class="text-box">
+                                    <h4>Micel Jingala</h4>
+                                    <p>CEO & Founder</p>
+                                </div>
+                            </div>
+                            <div class="social-creative-box">
+                                <div class="social-share-wrap">
+                                    <ul class="list ht-social-networks style-three">
+                                        <li class="item">
+                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- single-team-box Start -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <!-- single-team-box Start -->
+                        <div class="single-team-box style-01">
+                            <div class="team-image">
+                                <img class="img-fluid" src="../../assets/img/teammate3.jpg" alt="Team Image">
+                            </div>
+                            <div class="team-content">
+                                <div class="text-box">
+                                    <h4>Micel Jingala</h4>
+                                    <p>CEO & Founder</p>
+                                </div>
+                            </div>
+                            <div class="social-creative-box">
+                                <div class="social-share-wrap">
+                                    <ul class="list ht-social-networks style-three">
+                                        <li class="item">
+                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- single-team-box Start -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <!-- single-team-box Start -->
+                        <div class="single-team-box style-01">
+                            <div class="team-image">
+                                <img class="img-fluid" src="../../assets/img/teammate4.jpg" alt="Team Image">
+                            </div>
+                            <div class="team-content">
+                                <div class="text-box">
+                                    <h4>Micel Jingala</h4>
+                                    <p>CEO & Founder</p>
+                                </div>
+                            </div>
+                            <div class="social-creative-box">
+                                <div class="social-share-wrap">
+                                    <ul class="list ht-social-networks style-three">
+                                        <li class="item">
+                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- single-team-box Start -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <!-- single-team-box Start -->
+                        <div class="single-team-box style-01">
+                            <div class="team-image">
+                                <img class="img-fluid" src="../../assets/img/teammate5.jpg" alt="Team Image">
+                            </div>
+                            <div class="team-content">
+                                <div class="text-box">
+                                    <h4>Micel Jingala</h4>
+                                    <p>CEO & Founder</p>
+                                </div>
+                            </div>
+                            <div class="social-creative-box">
+                                <div class="social-share-wrap">
+                                    <ul class="list ht-social-networks style-three">
+                                        <li class="item">
+                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- single-team-box Start -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <!-- single-team-box Start -->
+                        <div class="single-team-box style-01">
+                            <div class="team-image">
+                                <img class="img-fluid" src="../../assets/img/teammate6.jpg" alt="Team Image">
+                            </div>
+                            <div class="team-content">
+                                <div class="text-box">
+                                    <h4>Micel Jingala</h4>
+                                    <p>CEO & Founder</p>
+                                </div>
+                            </div>
+                            <div class="social-creative-box">
+                                <div class="social-share-wrap">
+                                    <ul class="list ht-social-networks style-three">
+                                        <li class="item">
+                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- single-team-box Start -->
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6">
+                        <!-- single-team-box Start -->
+                        <div class="single-team-box style-01">
+                            <div class="team-image">
+                                <img class="img-fluid" src="../../assets/img/teammate7.jpg" alt="Team Image">
+                            </div>
+                            <div class="team-content">
+                                <div class="text-box">
+                                    <h4>Micel Jingala</h4>
+                                    <p>CEO & Founder</p>
+                                </div>
+                            </div>
+                            <div class="social-creative-box">
+                                <div class="social-share-wrap">
+                                    <ul class="list ht-social-networks style-three">
+                                        <li class="item">
+                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-facebook-f social-link-icon"></i></a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://dribbble.com/" target="_blank" class="social-link"> <i class="fa fa-dribbble social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://www.behance.net/" target="_blank" class="social-link"> <i class="fa fa-behance social-link-icon"></i> </a>
+                                        </li>
+                                        <li class="item">
+                                            <a href="https://twitter.com/" target="_blank" class="social-link"> <i class="fa fa-twitter social-link-icon"></i> </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
                         </div>
                         <!-- single-team-box Start -->
                     </div>
 
-
-                </div>
-
-                <div class="col-05__right-two float-right">
-                    <div class="text-center">
-                        <ul class="nav justify-content-center ht-tab-menu-team-two" role="tablist">
-                            <li class="tab__item nav-item active">
-                                <a class="nav-link active" id="nav-tab1" data-toggle="tab" href="#tab_list_06" role="tab" aria-selected="true">
-                                    <img src="assets/images/team/startup-team-small-rouend-01.png" class="img-fluid" alt="Team Image">
-                                </a>
-                            </li>
-                            <li class="tab__item nav-item">
-                                <a class="nav-link" id="nav-tab2" data-toggle="tab" href="#tab_list_07" role="tab" aria-selected="false">
-                                    <img src="assets/images/team/startup-team-small-rouend-02.png" class="img-fluid" alt="Team Image">
-                                </a>
-                            </li>
-                            <li class="tab__item nav-item ">
-                                <a class="nav-link" id="nav-tab3" data-toggle="tab" href="#tab_list_08" role="tab" aria-selected="false">
-                                    <img src="assets/images/team/startup-team-small-rouend-03.png" class="img-fluid" alt="Team Image">
-                                </a>
-                            </li>
-                            <li class="tab__item nav-item ">
-                                <a class="nav-link" id="nav-tab5" data-toggle="tab" href="#tab_list_09" role="tab" aria-selected="false">
-                                    <img src="assets/images/team/startup-team-small-rouend-04.png" class="img-fluid" alt="Team Image">
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
                 </div>
             </div>
         </div>
+        <!--=========== Team Area Start ==========-->
+
     </div>
-    <!--============ Team Area End ============-->
 
 
-    <!--=========== Fun fact Area Start ==========-->
-    <div class="fun-fact-wrapper section-space--pt_120">
-        <div class="container">
+    <!--=========== Personal Service Area Start ==========-->
+        <div class="container pt-5 pb-5">
+
+
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="fun-fact-style-two pl-5 pr-5 section-space--pt_60 mb-30 section-space--pb_30 personal-fun-fact-bg bg-img" data-bg="assets/images/patterns/startup-countert-bg.png">
-                        <div class="single-fun-fact wow move-up">
-                            <div class="fun-fact--one">
-                                <h3 class="fun-fact__count"><span class="counter">12</span></h3>
-                                <span class="fun-fact__text">Различных направлений</span>
+                <div class="col-lg-5">
+                    <div class="personal-service-left-images ml-auto text-center mr-auto  float-lg-left float-md-none personal-service-box-wrap">
+                        <div class="img-box">
+                            <img src="assets/img/team.jpg" class="img-fluid" alt="Service Image">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-7">
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="section-title-wrap text-left section-space--mb_40">
+                                <h6 class="section-sub-title">Pero International Agency</h6>
+                                <h3 class="section-title">Самые лучшие условия <br> только для Вас!</h3>
                             </div>
                         </div>
-                        <div class="single-fun-fact wow move-up">
-                            <div class="fun-fact--one">
-                                <h3 class="fun-fact__count"><span class="counter">128</span>+</h3>
-                                <span class="fun-fact__text">Счастливых студентов</span>
-                            </div>
-                        </div>
-                        <div class="single-fun-fact wow move-up">
-                            <div class="fun-fact--one">
-                                <h3 class="fun-fact__count"><span class="counter">100</span>%</h3>
-                                <span class="fun-fact__text">Результат</span>
-                            </div>
-                        </div>
-                        <div class="single-fun-fact wow move-up">
-                            <div class="fun-fact--one">
-                                <h3 class="fun-fact__count"><span class="counter">125</span>+</h3>
-                                <span class="fun-fact__text">Учителей</span>
+                    </div>
+                    <div class="flexible-image-slider-wrap">
+                        <div class="swiper-container auto--right-slider">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <!-- Service Box Start -->
+                                    <div class="ht-service-box style-2" style="padding-left: 75px;padding-right: 75px">
+                                       <img src="assets/img/review1.jpg" height="340px" width="220px">
+                                    </div>
+                                    <!-- Service Box End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Box Start -->
+                                    <div class="ht-service-box style-2" style="padding-left: 75px;padding-right: 75px">
+                                       <img src="assets/img/review2.jpg" height="340px" width="220px">
+                                    </div>
+                                    <!-- Service Box End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Box Start -->
+                                    <div class="ht-service-box style-2" style="padding-left: 75px;padding-right: 75px">
+                                       <img src="assets/img/review3.jpg" height="340px" width="220px">
+                                    </div>
+                                    <!-- Service Box End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Box Start -->
+                                    <div class="ht-service-box style-2" style="padding-left: 75px;padding-right: 75px">
+                                       <img src="assets/img/review4.jpg" height="340px" width="220px">
+                                    </div>
+                                    <!-- Service Box End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Box Start -->
+                                    <div class="ht-service-box style-2" style="padding-left: 75px;padding-right: 75px">
+                                       <img src="assets/img/review5.jpg" height="340px" width="220px">
+                                    </div>
+                                    <!-- Service Box End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Box Start -->
+                                    <div class="ht-service-box style-2" style="padding-left: 75px;padding-right: 75px">
+                                       <img src="assets/img/review6.jpg" height="340px" width="220px">
+                                    </div>
+                                    <!-- Service Box End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Box Start -->
+                                    <div class="ht-service-box style-2" style="padding-left: 75px;padding-right: 75px">
+                                       <img src="assets/img/review7.jpg" height="340px" width="220px">
+                                    </div>
+                                    <!-- Service Box End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Box Start -->
+                                    <div class="ht-service-box style-2" style="padding-left: 75px;padding-right: 75px">
+                                       <img src="assets/img/review8.jpg" height="340px" width="220px">
+                                    </div>
+                                    <!-- Service Box End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Box Start -->
+                                    <div class="ht-service-box style-2" style="padding-left: 75px;padding-right: 75px">
+                                       <img src="assets/img/review9.jpg" height="340px" width="220px">
+                                    </div>
+                                    <!-- Service Box End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Box Start -->
+                                    <div class="ht-service-box style-2" style="padding-left: 75px;padding-right: 75px">
+                                       <img src="assets/img/review10.jpg" height="340px" width="220px">
+                                    </div>
+                                    <!-- Service Box End -->
+                                </div>
+                                <div class="swiper-slide">
+                                    <!-- Service Box Start -->
+                                    <div class="ht-service-box style-2" style="padding-left: 75px;padding-right: 75px">
+                                       <img src="assets/img/review11.jpg" height="340px" width="220px">
+                                    </div>
+                                    <!-- Service Box End -->
+                                </div>
+
+
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-    <!--=========== Fun fact Area End ==========-->
 
-
-    <!--=========== Personal info Area Start ==========-->
-    <div class="personal-info-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="personal-info-box start-up-bg box-shadow--default">
-                        <h4 class="theme-color-default ">Заинтересовались, тогда звоните:<a :tel="+77783558165">+77783558165</a></h4>
-                    </div>
-                </div>
             </div>
+
         </div>
-    </div>
-    <!--=========== Personal info Area End ==========-->
+    <!--=========== Personal Service Area End ==========-->
 
 @endsection
 

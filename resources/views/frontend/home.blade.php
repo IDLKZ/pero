@@ -388,22 +388,22 @@
                             <ul class="nav justify-content-center ht-tab-menu-team-two" role="tablist">
                                 <li class="tab__item nav-item active">
                                     <a class="nav-link active" id="nav-tab1" data-toggle="tab" href="#tab_list_06" role="tab" aria-selected="true">
-                                        <img src="assets/images/team/startup-team-small-rouend-01.png" class="img-fluid" alt="Team Image">
+                                        <img src="assets/img/teacher1.jpg" class="img-fluid" alt="Team Image">
                                     </a>
                                 </li>
                                 <li class="tab__item nav-item">
                                     <a class="nav-link" id="nav-tab2" data-toggle="tab" href="#tab_list_07" role="tab" aria-selected="false">
-                                        <img src="assets/images/team/startup-team-small-rouend-02.png" class="img-fluid" alt="Team Image">
+                                        <img src="assets/img/teacher2.jpg" class="img-fluid" alt="Team Image">
                                     </a>
                                 </li>
                                 <li class="tab__item nav-item ">
                                     <a class="nav-link" id="nav-tab3" data-toggle="tab" href="#tab_list_08" role="tab" aria-selected="false">
-                                        <img src="assets/images/team/startup-team-small-rouend-03.png" class="img-fluid" alt="Team Image">
+                                        <img src="assets//img/teacher3.jpg" class="img-fluid" alt="Team Image">
                                     </a>
                                 </li>
                                 <li class="tab__item nav-item ">
                                     <a class="nav-link" id="nav-tab5" data-toggle="tab" href="#tab_list_09" role="tab" aria-selected="false">
-                                        <img src="assets/images/team/startup-team-small-rouend-04.png" class="img-fluid" alt="Team Image">
+                                        <img src="assets/img/teacher4.jpg" class="img-fluid" alt="Team Image">
                                     </a>
                                 </li>
                             </ul>
@@ -413,6 +413,8 @@
             </div>
         </div>
         <!--============ Team Area End ============-->
+
+
 
 
         <!--=========== Fun fact Area Start ==========-->
@@ -441,7 +443,7 @@
                             </div>
                             <div class="single-fun-fact wow move-up">
                                 <div class="fun-fact--one">
-                                    <h3 class="fun-fact__count"><span class="counter">125</span>+</h3>
+                                    <h3 class="fun-fact__count"><span class="counter">7</span>+</h3>
                                     <span class="fun-fact__text">Учителей</span>
                                 </div>
                             </div>
@@ -459,7 +461,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="personal-info-box start-up-bg box-shadow--default">
-                            <h4 class="theme-color-default ">Заинтересовались, тогда звоните:<a :tel="+77783558165">+77783558165</a></h4>
+                            <h4 class="theme-color-default ">Заинтересовались, тогда пишите по Whatsapp:<a href="https://api.whatsapp.com/send?phone=77783558165">+77783558165</a></h4>
                         </div>
                     </div>
                 </div>
@@ -495,12 +497,15 @@
                                             <div class="swiper-slide">
                                                 <div class="testimonial-slider__single wow move-up">
                                                     <div class="testimonial-slider--box">
-                                                        <div class="testimonial-slider__text"><span class="start-block">“</span>Most popular typesetting, remaining are essentially
-                                                            was popularised in the 1960s with the release of uncov
-                                                            sites still in their nfancy. Various versions have <span class="end-block">”</span></div>
+                                                        <div class="testimonial-slider__text"><span class="start-block">“</span>
+                                                            Репетитор Айнура преподает математику и готовит к тесту Nufypet. Занимаюсь с Айнурой с марта месяца, знала лишь базовый уровень.
+                                                            Определившись с целями и задачами, Айнура предложила определенную систему занятий.
+                                                            После обучения продолжительностью в 3 месяца чуствуется большой прогресс.
+                                                            Появилось уверенность в решении задач
+                                                            <span class="end-block">”</span></div>
                                                         <div class="author-info">
                                                             <div class="testimonial-slider__author">
-                                                                <h6 class="name">David Morgan - <span class="designation">CEO</span></h6>
+                                                                <h6 class="name">Ученица - <span class="designation">Ученица</span></h6>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -508,38 +513,101 @@
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="testimonial-slider__single wow move-up">
-
                                                     <div class="testimonial-slider--box">
-                                                        <div class="testimonial-slider__text"><span class="start-block">“</span> electronic typesetting, remaining
-                                                            essenti ally was popularised in
-                                                            1960s with the release
+                                                        <div class="testimonial-slider__text"><span class="start-block">“</span>
+                                                           Очень рада что прохожу курсы по математике у вас. За такой маленький промежуток времени, я получила большое количество информации.
+                                                            Вы объясняете простым и легким языком. Я в таком восторге от ваших объяснений, а также благодарна за вашу поддержку и большую мотивацию к обучению.
+                                                            Могу сказать что вы одна из лучших репетиторов по математике, который не только объяснит тему, но и даст советы при любых проблемах!
+
                                                             <span class="end-block">”</span></div>
                                                         <div class="author-info">
                                                             <div class="testimonial-slider__author">
-                                                                <h6 class="name">David Morgan - <span class="designation">CEO</span></h6>
+                                                                <h6 class="name">Зарина - <span class="designation">Ученица</span></h6>
                                                             </div>
                                                         </div>
                                                     </div>
-
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="testimonial-slider__single wow move-up">
-
                                                     <div class="testimonial-slider--box">
-                                                        <div class="testimonial-slider__text"><span class="start-block">“</span> electronic typesetting, remaining
-                                                            essenti ally was popularised in
-                                                            1960s with the release Various versions have
+                                                        <div class="testimonial-slider__text"><span class="start-block">“</span>
+                                                               Занятия на курсе по подготовке к Nufypet  мне понравились. Айнур использовала очень хорошие материалы и давала понятные объяснения.
+                                                                Уроки проходили в теплой и дружеской обстановке.
+                                                                Уже на первом уроке я поняла, что нашла отличного учителя по математике и теперь советую пойти именно к ней.
                                                             <span class="end-block">”</span></div>
                                                         <div class="author-info">
                                                             <div class="testimonial-slider__author">
-                                                                <h6 class="name">David Morgan - <span class="designation">CEO</span></h6>
+                                                                <h6 class="name">Зарина - <span class="designation">Ученица</span></h6>
                                                             </div>
                                                         </div>
                                                     </div>
-
                                                 </div>
                                             </div>
+                                            <div class="swiper-slide">
+                                                <div class="testimonial-slider__single wow move-up">
+                                                    <div class="testimonial-slider--box">
+                                                        <div class="testimonial-slider__text"><span class="start-block">“</span>
+                                                            Что мне понравилось у вас: Вы рассказывали как решать задачи, даже при большом их количестве, описывали действия при решении даже самых сложных задач.
+                                                            Вы всегда были энергичны и быстро решали задачи, какими сложными бы они не были !
+                                                            <span class="end-block">”</span></div>
+                                                        <div class="author-info">
+                                                            <div class="testimonial-slider__author">
+                                                                <h6 class="name">Дана - <span class="designation">Ученица</span></h6>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="testimonial-slider__single wow move-up">
+                                                    <div class="testimonial-slider--box">
+                                                        <div class="testimonial-slider__text"><span class="start-block">“</span>
+                                                           Айнур, спасибо вам большое! Вы так быстро меня подготовили меня к экзамену! Все доходчиво объяснили мне на 3 языках.
+                                                            Я очень давно искала такого репетитора, я с вами не прощаюсь. Мне еще нужно подятнуть математику!
+                                                            <span class="end-block">”</span></div>
+                                                        <div class="author-info">
+                                                            <div class="testimonial-slider__author">
+                                                                <h6 class="name">Наша - <span class="designation">Ученица</span></h6>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="testimonial-slider__single wow move-up">
+                                                    <div class="testimonial-slider--box">
+                                                        <div class="testimonial-slider__text"><span class="start-block">“</span>
+                                                            Айнур, үлкен рахмет! Сабақтар тусінікті, уақыты да ыңғайлы және  мықты результат.
+                                                            4-5 сабақта өзімнің есеп шығару  жылдамдығым артып, білмеген тақырыптарды түсіндім. Ал енді әлсіз жақтарымды жұмыс істеүдеміз.
+                                                            Оқушымен оңай  қатынас процессті жеңілдетеді екен. Рахмет!
+                                                            <span class="end-block">”</span></div>
+                                                        <div class="author-info">
+                                                            <div class="testimonial-slider__author">
+                                                                <h6 class="name">Наша - <span class="designation">Ученица</span></h6>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <div class="testimonial-slider__single wow move-up">
+                                                    <div class="testimonial-slider--box">
+                                                        <div class="testimonial-slider__text"><span class="start-block">“</span>
+                                                           Здравствуйте! Сегодня я прошла консультацию у Айнур, хотела бы выразить ей свою благодарность.
+                                                            Вы всегда можете получить точные ответы на ваши вопросы и будете очень довольны! Я получила огромное количество информации из различных источников!
+                                                            Это было очень полезно и информативно!
+                                                            Обязательно к ней записывайтесь и вы получите от нее отличную информацию о которой не пожалеете!
+                                                            <span class="end-block">”</span></div>
+                                                        <div class="author-info">
+                                                            <div class="testimonial-slider__author">
+                                                                <h6 class="name">Аружан - <span class="designation">Ученица</span></h6>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
                                         </div>
                                         <!-- Add Arrows -->
                                         <div class="swiper-nav-button swiper-button-next"><img src="assets/images/icons/testimonials-left-arrow.png" alt=""></div>
