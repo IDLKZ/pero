@@ -239,9 +239,7 @@
                                 <li class="has-children has-children--multilevel-submenu">
                                     <a href="{{route("contact")}}"><span>Контакты</span></a>
 
-                                <li class="has-children has-children--multilevel-submenu">
-                                    <a href=""><span>Записаться</span></a>
-                                </li>
+
                             </ul>
 
                         </div>
