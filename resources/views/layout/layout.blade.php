@@ -4,8 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Pero International Agency</title>
-    <meta name="description" content="">
+    <title>{{$title = isset($title) ? $title : "Pero International Agency"}}</title>
+    <meta name="description" content="{{$description = isset($description) ? $description : "Pero - готовим к поступлению в международные вузы, НИШ,КТЛ, английский язык и Ielts в Астане!"}}">
+    <meta name="keywords" content="{{$keywords = isset($keywords) ? $keywords : "Pero,Поступление за границу и в НУ,English/IELTS/SAT/NUFYPET/GRE/ЕНТ,Стипендии на обучение по всему миру,Международные стажировки и конференции"}}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
     <link rel="icon" href="assets/images/favicon.ico">
