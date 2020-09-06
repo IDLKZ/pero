@@ -133,7 +133,7 @@
                                                         <a href="/"><span>Главная</span></a>
                                                     </li>
                                                     <li class="has-children">
-                                                        <a href="{{route("about")}}"><span>О нас</span></a>
+                                                        <a href="{{route("about")}}"><span>Отзывы</span></a>
                                                     </li>
                                                     <li class="has-children has-children--multilevel-submenu">
                                                         <a href="{{route("service")}}"><span>Курсы</span></a>
@@ -144,9 +144,9 @@
                                                     <li class="has-children has-children--multilevel-submenu">
                                                         <a href="{{route("contact")}}"><span>Контакты</span></a>
 
-                                                    <li class="has-children has-children--multilevel-submenu">
-                                                        <a href=""><span>Записаться</span></a>
-                                                    </li>
+{{--                                                    <li class="has-children has-children--multilevel-submenu">--}}
+{{--                                                        <a href=""><span>Записаться</span></a>--}}
+{{--                                                    </li>--}}
 
 
                                                 </ul>
@@ -320,7 +320,7 @@
                         <a href="/"><span>Главная</span></a>
                     </li>
                     <li class="has-children">
-                        <a href="{{route("about")}}"><span>О нас</span></a>
+                        <a href="{{route("about")}}"><span>Отзывы</span></a>
                     </li>
                     <li class="has-children has-children--multilevel-submenu">
                         <a href="{{route("service")}}"><span>Курсы</span></a>
@@ -331,9 +331,9 @@
                     <li class="has-children has-children--multilevel-submenu">
                         <a href="{{route("contact")}}"><span>Контакты</span></a>
 
-                    <li class="has-children has-children--multilevel-submenu">
-                        <a href=""><span>Записаться</span></a>
-                    </li>
+{{--                    <li class="has-children has-children--multilevel-submenu">--}}
+{{--                        <a href=""><span>Записаться</span></a>--}}
+{{--                    </li>--}}
 
 
                 </ul>
