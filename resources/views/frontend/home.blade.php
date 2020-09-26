@@ -16,7 +16,7 @@
                                     <div class="col-xl-12 col-lg-12 col-md-12">
 
                                         <div class="hero-text text-center text-center text-white layer-animation-1">
-                                            <h4 class="text-white mb-10">Pero International Agency</h4>
+                                            <h4 class="text-white mb-10 text-color-secondary">Pero International Agency</h4>
                                             <h1 class="font-weight--bold mb-15 section-title text-white">Поможем Вам достичь Ваших целей</h1>
                                             <h4 class="text-white mb-10 mt-md-5">Школа для изучения английского языка и подготовка к международным экхаменам</h4>
                                             <div class="hero-button mt-30">

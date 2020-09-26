@@ -28,6 +28,12 @@ class FrontendController extends Controller
         $keywords = "Pero, ▪️Поступление за границу и в НУ,English/IELTS/SAT/NUFYPET/GRE/ЕНТ,Стипендии на обучение по всему миру,Международные стажировки и конференции";
         return view("frontend.service",compact("title","description","keywords"));
     }
+    public function product(){
+        $title = "Pero International Agency - курсы по подготовке к поступлению и английского языка в Астане";
+        $description = "Pero - готовим к поступлению в международные вузы, НИШ,КТЛ, английский язык и Ielts в Астане!";
+        $keywords = "Pero, ▪️Поступление за границу и в НУ,English/IELTS/SAT/NUFYPET/GRE/ЕНТ,Стипендии на обучение по всему миру,Международные стажировки и конференции";
+        return view("frontend.product",compact("title","description","keywords"));
+    }
     public function pricing(){
         $title = "Pero International Agency - Цены за курсы в Астане";
         $description = "Pero - готовим к поступлению в международные вузы, НИШ,КТЛ, английский язык и Ielts в Астане!";

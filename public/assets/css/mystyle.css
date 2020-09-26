@@ -61,3 +61,6 @@ a > span{
 .header-area .is-sticky{
     background-color: #5d739d;
 }
+.scroll-top.show{
+    bottom: 90px!important;
+}

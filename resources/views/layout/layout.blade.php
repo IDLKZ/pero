@@ -136,14 +136,19 @@
                                                     <li class="has-children">
                                                         <a href="{{route("about")}}"><span>О нас</span></a>
                                                     </li>
+
                                                     <li class="has-children has-children--multilevel-submenu">
                                                         <a href="{{route("service")}}"><span>Курсы</span></a>
+                                                    </li>
+                                                    <li class="has-children has-children--multilevel-submenu">
+                                                        <a href="{{route("product")}}"><span>Продукты</span></a>
                                                     </li>
                                                     <li class="has-children has-children--multilevel-submenu">
                                                         <a href="{{route("pricing")}}"><span>Цены</span></a>
                                                     </li>
                                                     <li class="has-children has-children--multilevel-submenu">
-                                                        <a href="{{route("contact")}}"><span>Контакты</span></a>
+                                                        <a href="{{route("contact")}}"><span>Контакты</span></a></li>
+
 
 {{--                                                    <li class="has-children has-children--multilevel-submenu">--}}
 {{--                                                        <a href=""><span>Записаться</span></a>--}}
