@@ -7,7 +7,7 @@
     <div class="creative_breadcrumb-area start_up_service-bg bg-img" data-bg="../../assets/img/breadcrumb.jpg">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
+                <div class="col-lg-12">
                     <div class="breadcrumb_box text-left">
                         <h2 class="breadcrumb-title text-color-primary mb-10">О нас</h2>
                         <p class="">Pero Intenational Agency <br>

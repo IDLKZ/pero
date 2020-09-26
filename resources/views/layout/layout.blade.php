@@ -56,55 +56,55 @@
 <div class="header-area header-area--default">
 
     <!-- Header Top Wrap Start -->
-    <div class="header-top-wrap theme-bg-three">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-4 col-9">
-                    <p class="text-md-left top-message">Телефоны: <a href="tel:+77783558165 ">+7 778 355 8165  </a></p>
-                </div>
-                <div class="col-md-4 col-6  d-md-block d-none">
-                    <p class="top-message text-md-center"><a href="mailto:info@example.com">info@example.com</a> </p>
-                </div>
-                <div class="col-md-4 col-3">
-                    <!-- header right box -->
-                    <div class="header-right-box">
-                        <div class="header-right-inner" id="hidden-icon-wrapper">
-                            <p class="mobile-top-message d-block d-md-none"><a href="mailto:info@example.com">info@example.com</a> </p>
-                            <!-- language-menu -->
-                            <div class="language-menu">
-                                <ul>
-                                    <li>
-                                        <a href="#" class="">
-                                            Напишите нам!
-                                        </a>
+{{--    <div class="header-top-wrap theme-bg-three">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row align-items-center">--}}
+{{--                <div class="col-md-4 col-9">--}}
+{{--                    <p class="text-md-left top-message">Телефоны: <a href="tel:+77783558165 ">+7 778 355 8165  </a></p>--}}
+{{--                </div>--}}
+{{--                <div class="col-md-4 col-6  d-md-block d-none">--}}
+{{--                    <p class="top-message text-md-center"><a href="mailto:info@example.com">info@example.com</a> </p>--}}
+{{--                </div>--}}
+{{--                <div class="col-md-4 col-3">--}}
+{{--                    <!-- header right box -->--}}
+{{--                    <div class="header-right-box">--}}
+{{--                        <div class="header-right-inner" id="hidden-icon-wrapper">--}}
+{{--                            <p class="mobile-top-message d-block d-md-none"><a href="mailto:info@example.com">info@example.com</a> </p>--}}
+{{--                            <!-- language-menu -->--}}
+{{--                            <div class="language-menu">--}}
+{{--                                <ul>--}}
+{{--                                    <li>--}}
+{{--                                        <a href="#" class="">--}}
+{{--                                            Напишите нам!--}}
+{{--                                        </a>--}}
 
-                                        <ul class="ls-sub-menu">
-                                            <li class="">
-                                                <a href="https://api.whatsapp.com/send?phone=77783558165"><span>WhatsApp</span>
-                                                </a>
-                                            </li>
-                                            <li class="">
-                                                <a href="https://www.instagram.com/pero.agency/"><span>Instagram</span>
-                                                </a>
-                                            </li>
+{{--                                        <ul class="ls-sub-menu">--}}
+{{--                                            <li class="">--}}
+{{--                                                <a href="https://api.whatsapp.com/send?phone=77783558165"><span>WhatsApp</span>--}}
+{{--                                                </a>--}}
+{{--                                            </li>--}}
+{{--                                            <li class="">--}}
+{{--                                                <a href="https://www.instagram.com/pero.agency/"><span>Instagram</span>--}}
+{{--                                                </a>--}}
+{{--                                            </li>--}}
 
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- hidden icons menu -->
-                        <div class="hidden-icons-menu d-block d-md-none" id="hidden-icon-trigger">
-                            <a href="javascript:void(0)">
-                                <i class="fa fa-ellipsis-h"></i>
-                            </a>
-                        </div>
-                    </div>
+{{--                                        </ul>--}}
+{{--                                    </li>--}}
+{{--                                </ul>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <!-- hidden icons menu -->--}}
+{{--                        <div class="hidden-icons-menu d-block d-md-none" id="hidden-icon-trigger">--}}
+{{--                            <a href="javascript:void(0)">--}}
+{{--                                <i class="fa fa-ellipsis-h"></i>--}}
+{{--                            </a>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
 
-                </div>
-            </div>
-        </div>
-    </div>
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
     <!-- Header Top Wrap End -->
 
     <!-- Header Bottom Wrap Start -->
@@ -117,12 +117,12 @@
                         <!-- brand logo -->
                         <div class="header__logo">
                             <a href="index.html">
-                                <img src="assets/images/logo/dark-logo.png" class="img-fluid" alt="">
+                                <img src="assets/images/logo/logo.jpg" width="75px" height="75px" class="img-fluid" alt="">
                             </a>
                         </div>
 
                         <!-- header midle box  -->
-                        <div class="header-midle-box">
+                        <div class="header-midle-box" style="justify-content: flex-start!important;">
                             <div class="header-bottom-wrap d-md-block d-none">
                                 <div class="header-bottom-inner">
                                     <div class="header-bottom-left-wrap">
@@ -182,6 +182,17 @@
 
 
 
+<div class="rc-button"></div>
+
+
+<!-- RedConnect -->
+<script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async"
+        src="https://web.redhelper.ru/service/main.js?c=idlkz"></script>
+<div style="display: none"><a class="rc-copyright"
+                              href="http://redconnect.ru">Сервис обратного звонка RedConnect</a></div>
+<!--/RedConnect -->
+
+
 
 <!--====================  footer area ====================-->
 <div class="footer-area-wrapper ">
@@ -190,7 +201,7 @@
             <div class="row footer-widget-wrapper">
                 <div class="col-lg-4 col-md-12 col-sm-12 footer-widget">
                     <div class="footer-widget__logo mb-30">
-                        <img src="assets/images/logo/white-logo.png" class="img-fluid" alt="">
+                        <img src="assets/images/logo/logo.jpg" height="75px" width="75px" class="img-fluid" alt="">
                     </div>
                     <div class="footer-widget-dic">
 
@@ -206,12 +217,12 @@
 
                             <li class="item">
                                 <a href="https://www.instagram.com/pero.agency/" target="_blank">
-                                    <i class="fa fa-instagram link-icon"></i>
+                                    <i class="fa fa-instagram link-icon social-icon"></i>
                                 </a>
                             </li>
                             <li class="item">
                                 <a href="https://api.whatsapp.com/send?phone=77783558165" target="_blank">
-                                    <i class="fa fa-whatsapp link-icon"></i>
+                                    <i class="fa fa-whatsapp link-icon social-icon"></i>
                                 </a>
                             </li>
 
@@ -299,7 +310,7 @@
                         <!-- logo -->
                         <div class="logo">
                             <a href="index.html">
-                                <img src="assets/images/logo/dark-logo.png" class="img-fluid" alt="">
+                                <img src="assets/images/logo/logo.jpg" height="75px" width="75px" class="img-fluid" alt="">
                             </a>
                         </div>
                     </div>

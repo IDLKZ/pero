@@ -10,14 +10,15 @@
             <div class="swiper-container hero-flexible__container main-slider">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide"  >
-                        <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg1.jpg">
+                        <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg.png">
                             <div class="container">
                                 <div class="row align-items-center">
-                                    <div class="col-xl-6 col-lg-8 col-md-9">
+                                    <div class="col-xl-12 col-lg-12 col-md-12">
 
-                                        <div class="hero-text text-center text-md-left layer-animation-1">
-                                            <h4 class="text-color-secondary mb-10">Pero International Agency</h4>
-                                            <h1 class="font-weight--bold mb-15 section-title">Поможем  <br> Вам  <br> достичь Ваших целей</h1>
+                                        <div class="hero-text text-center text-center text-white layer-animation-1">
+                                            <h4 class="text-white mb-10">Pero International Agency</h4>
+                                            <h1 class="font-weight--bold mb-15 section-title text-white">Поможем Вам достичь Ваших целей</h1>
+                                            <h4 class="text-white mb-10 mt-md-5">Школа для изучения английского языка и подготовка к международным экхаменам</h4>
                                             <div class="hero-button mt-30">
                                                 <a href="{{route("contact")}}" class="ht-btn ht-btn-lg font-weight--bold">Записаться</a>
                                             </div>
@@ -27,55 +28,145 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide" >
-                        <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg2.jpg">
-                            <div class="container">
-                                <div class="row align-items-center">
-                                    <div class="col-xl-6 col-lg-8 col-md-9">
+{{--                    <div class="swiper-slide" >--}}
+{{--                        <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg2.jpg">--}}
+{{--                            <div class="container">--}}
+{{--                                <div class="row align-items-center">--}}
+{{--                                    <div class="col-xl-6 col-lg-8 col-md-9">--}}
 
-                                        <div class="hero-text text-center text-md-left layer-animation-1">
-                                            <h4 class="text-color-secondary mb-10">Pero International Agency</h4>
-                                            <h1 class="font-weight--bold mb-15 section-title">Учись  <br>собственном темпе <br> Онлайн</h1>
-                                            <div class="hero-button mt-30">
-                                                <a href="{{route("service")}}" class="ht-btn ht-btn-lg font-weight--bold">Наши курсы</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide" >
-                        <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg3.jpg">
-                            <div class="container">
-                                <div class="row align-items-center">
-                                    <div class="col-xl-6 col-lg-8 col-md-9">
+{{--                                        <div class="hero-text text-center text-md-left layer-animation-1">--}}
+{{--                                            <h4 class="text-color-secondary mb-10">Pero International Agency</h4>--}}
+{{--                                            <h1 class="font-weight--bold mb-15 section-title">Учись  <br>собственном темпе <br> Онлайн</h1>--}}
+{{--                                            <div class="hero-button mt-30">--}}
+{{--                                                <a href="{{route("service")}}" class="ht-btn ht-btn-lg font-weight--bold">Наши курсы</a>--}}
+{{--                                            </div>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="swiper-slide" >--}}
+{{--                        <div class="start-up-hero bg-img" style="background-size: cover" data-bg="assets/img/bg3.jpg">--}}
+{{--                            <div class="container">--}}
+{{--                                <div class="row align-items-center">--}}
+{{--                                    <div class="col-xl-6 col-lg-8 col-md-9">--}}
 
-                                        <div class="hero-text text-center text-md-left layer-animation-1">
-                                            <h4 class="text-color-secondary mb-10">Pero International Agency</h4>
-                                            <h1 class="font-weight--bold mb-15 section-title">Только <br> лучшие учителя <br></h1>
-                                            <div class="hero-button mt-30">
-                                                <a href="{{route("about")}}" class="ht-btn ht-btn-lg font-weight--bold">О нас</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                                        <div class="hero-text text-center text-md-left layer-animation-1">--}}
+{{--                                            <h4 class="text-color-secondary mb-10">Pero International Agency</h4>--}}
+{{--                                            <h1 class="font-weight--bold mb-15 section-title">Только <br> лучшие учителя <br></h1>--}}
+{{--                                            <div class="hero-button mt-30">--}}
+{{--                                                <a href="{{route("about")}}" class="ht-btn ht-btn-lg font-weight--bold">О нас</a>--}}
+{{--                                            </div>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                 </div>
                 <!-- Add Arrows -->
             </div>
 
+{{--            <div class="container">--}}
+{{--                <div class="row">--}}
+{{--                    <div class="col-lg-12">--}}
+{{--                        <div class="hero-swiper-pagination-number swiper-pagination__left"></div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+        </div>
+        <!--============ Hero End ============-->
+
+        <!--============ Service Area Start ============-->
+        <div class="start-up-service-area section-space--pt_120 ">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12">
-                        <div class="hero-swiper-pagination-number swiper-pagination__left"></div>
+                <div class="col-12 text-center">
+                    <h3 class="mb-20 section-title">Наши курсы</h3>
+                    <h4 class="mb-20 font-weight--light"><span class="text-size-lg font-weight-bold text-color-secondary">Pero </span> - поможем вам с поступлением в зарубежные ВУЗы</h4>
+                </div>
+
+
+
+                    <!-- service-area Start -->
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="ht-service-box style-05 text-center">
+                            <div class="service-icon" data-aos="zoom-in-down">
+                                <img style="height: 150px; width: 150px" src="assets/img/service.jpg" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4 class="section-title mb-10">SAT</h4>
+                                <p>Стандартизированный тест для приема в высшие учебные заведения в США.
+                                </p>
+                            </div>
+                        </div>
                     </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="ht-service-box style-05 text-center">
+                            <div class="service-icon" data-aos="zoom-in-down">
+                                <img style="height: 150px; width: 150px" src="assets/img/logo2.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4 class="section-title mb-10">NUFYPET</h4>
+                                <p>Предметный тест на английском для поступления в Nazarbayev Universityы
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="ht-service-box style-05 text-center">
+                            <div class="service-icon" data-aos="zoom-in-down">
+                                <img style="height: 150px; width: 150px" src="assets/img/logo3.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4 class="section-title mb-10">IELTS</h4>
+                                <p>Международная система оценки знания английского языка</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="ht-service-box style-05 text-center">
+                            <div class="service-icon" data-aos="zoom-in-down">
+                                <img style="height: 150px; width: 150px" src="assets/img/logo4.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4 class="section-title mb-10">General English</h4>
+                                <p>Общий курс английского языка для усовершенствования своих навыков
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="ht-service-box style-05 text-center">
+                            <div class="service-icon" data-aos="zoom-in-down">
+                                <img style="height: 150px; width: 150px" src="assets/img/logo5.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4 class="section-title mb-10"> NIS, БИЛ, РФМШ,КТЛ</h4>
+                                <p>Подготовка к вступительным экзаменом в школы, лицеи и вузы
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="ht-service-box style-05 text-center">
+                            <div class="service-icon" data-aos="zoom-in-down">
+                                <img style="height: 150px; width: 150px" src="assets/img/logo6.png" alt="">
+                            </div>
+                            <div class="service-content">
+                                <h4 class="section-title mb-10">ЕНТ и школьные предметы</h4>
+                                <p>Подготовка к ЕНТ и подтянем школьные предметы
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- service-area End -->
+
                 </div>
             </div>
         </div>
-        <!--============ Hero End ============-->
+        <!--============ Service Area End ============-->
 
         <!--============ Service Area Start ============-->
         <div class="start-up-service-area section-space--pt_120 ">
@@ -343,76 +434,76 @@
         <!--============ project Area End ============-->
 
 
-        <!--============ Team Area Start ============-->
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-5 pr-xl-0">
-                    <div class="about-us-content about-us-offset-right position-relative x-index-1">
-                        <div class="section-title-wrap">
-                            <h6 class="section-sub-title">Наша команда</h6>
-                            <h3 class="mb-20 section-title">Команда <br> профессионалов</h3>
-                            <p class="mb-20 font-weight--light">
-                                У нас работают люди, любящие свое дело - настоящие профессионалы и энтузиасты своего дела
-                            </p>
-                            <p class="mb-40 font-weight--normal font-italic">
-                                Учитель - инженер человеческой души <br>
-                                М.И.Калинин
-                            </p>
+{{--        <!--============ Team Area Start ============-->--}}
+{{--        <div class="container">--}}
+{{--            <div class="row align-items-center">--}}
+{{--                <div class="col-lg-5 pr-xl-0">--}}
+{{--                    <div class="about-us-content about-us-offset-right position-relative x-index-1">--}}
+{{--                        <div class="section-title-wrap">--}}
+{{--                            <h6 class="section-sub-title">Наша команда</h6>--}}
+{{--                            <h3 class="mb-20 section-title">Команда <br> профессионалов</h3>--}}
+{{--                            <p class="mb-20 font-weight--light">--}}
+{{--                                У нас работают люди, любящие свое дело - настоящие профессионалы и энтузиасты своего дела--}}
+{{--                            </p>--}}
+{{--                            <p class="mb-40 font-weight--normal font-italic">--}}
+{{--                                Учитель - инженер человеческой души <br>--}}
+{{--                                М.И.Калинин--}}
+{{--                            </p>--}}
 
-                            <div class="about-us-btn-box">
-                                <a href="#" class="ht-btn ht-btn-sm">Наша команда</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-7 pl-xl-0">
+{{--                            <div class="about-us-btn-box">--}}
+{{--                                <a href="#" class="ht-btn ht-btn-sm">Наша команда</a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-lg-7 pl-xl-0">--}}
 
-                    <div class="tab-content ht-tab__content-two section-space--mt_80">
+{{--                    <div class="tab-content ht-tab__content-two section-space--mt_80">--}}
 
-                        <div class="tab-pane active">
-                            <!-- single-team-box Start -->
-                            <div class="single-team-box style-02 mt-30">
-                                <div class="team-image">
-                                    <img src="assets/img/team.jpg" style="width:281px;height:302px"  class="img-fluid" alt="Team Image">
-                                </div>
+{{--                        <div class="tab-pane active">--}}
+{{--                            <!-- single-team-box Start -->--}}
+{{--                            <div class="single-team-box style-02 mt-30">--}}
+{{--                                <div class="team-image">--}}
+{{--                                    <img src="assets/img/team.jpg" style="width:281px;height:302px"  class="img-fluid" alt="Team Image">--}}
+{{--                                </div>--}}
 
-                            </div>
-                            <!-- single-team-box Start -->
-                        </div>
+{{--                            </div>--}}
+{{--                            <!-- single-team-box Start -->--}}
+{{--                        </div>--}}
 
 
-                    </div>
+{{--                    </div>--}}
 
-                    <div class="col-05__right-two float-right">
-                        <div class="text-center">
-                            <ul class="nav justify-content-center ht-tab-menu-team-two" role="tablist">
-                                <li class="tab__item nav-item active">
-                                    <a class="nav-link active" id="nav-tab1" data-toggle="tab" href="#tab_list_06" role="tab" aria-selected="true">
-                                        <img src="assets/img/teacher1.jpg" class="img-fluid" alt="Team Image">
-                                    </a>
-                                </li>
-                                <li class="tab__item nav-item">
-                                    <a class="nav-link" id="nav-tab2" data-toggle="tab" href="#tab_list_07" role="tab" aria-selected="false">
-                                        <img src="assets/img/teacher2.jpg" class="img-fluid" alt="Team Image">
-                                    </a>
-                                </li>
-                                <li class="tab__item nav-item ">
-                                    <a class="nav-link" id="nav-tab3" data-toggle="tab" href="#tab_list_08" role="tab" aria-selected="false">
-                                        <img src="assets//img/teacher3.jpg" class="img-fluid" alt="Team Image">
-                                    </a>
-                                </li>
-                                <li class="tab__item nav-item ">
-                                    <a class="nav-link" id="nav-tab5" data-toggle="tab" href="#tab_list_09" role="tab" aria-selected="false">
-                                        <img src="assets/img/teacher4.jpg" class="img-fluid" alt="Team Image">
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--============ Team Area End ============-->
+{{--                    <div class="col-05__right-two float-right">--}}
+{{--                        <div class="text-center">--}}
+{{--                            <ul class="nav justify-content-center ht-tab-menu-team-two" role="tablist">--}}
+{{--                                <li class="tab__item nav-item active">--}}
+{{--                                    <a class="nav-link active" id="nav-tab1" data-toggle="tab" href="#tab_list_06" role="tab" aria-selected="true">--}}
+{{--                                        <img src="assets/img/teacher1.jpg" class="img-fluid" alt="Team Image">--}}
+{{--                                    </a>--}}
+{{--                                </li>--}}
+{{--                                <li class="tab__item nav-item">--}}
+{{--                                    <a class="nav-link" id="nav-tab2" data-toggle="tab" href="#tab_list_07" role="tab" aria-selected="false">--}}
+{{--                                        <img src="assets/img/teacher2.jpg" class="img-fluid" alt="Team Image">--}}
+{{--                                    </a>--}}
+{{--                                </li>--}}
+{{--                                <li class="tab__item nav-item ">--}}
+{{--                                    <a class="nav-link" id="nav-tab3" data-toggle="tab" href="#tab_list_08" role="tab" aria-selected="false">--}}
+{{--                                        <img src="assets//img/teacher3.jpg" class="img-fluid" alt="Team Image">--}}
+{{--                                    </a>--}}
+{{--                                </li>--}}
+{{--                                <li class="tab__item nav-item ">--}}
+{{--                                    <a class="nav-link" id="nav-tab5" data-toggle="tab" href="#tab_list_09" role="tab" aria-selected="false">--}}
+{{--                                        <img src="assets/img/teacher4.jpg" class="img-fluid" alt="Team Image">--}}
+{{--                                    </a>--}}
+{{--                                </li>--}}
+{{--                            </ul>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <!--============ Team Area End ============-->--}}
 
 
 
@@ -474,11 +565,6 @@
         <div class="testimonial-counter-area section-space--ptb_120">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-6">
-                        <div class="startup-features text-center" data-aos="fade-right">
-                            <img src="assets/img/review.jpg" class="img-fluid" alt="Startup image">
-                        </div>
-                    </div>
                     <div class="col-lg-6">
                         <div class="testimonials-content-right-box tablet-mt__60 small-mt__60">
                             <div class="section-title-wrap section-space--mb_60">
@@ -619,6 +705,11 @@
                             <!--==================== Testimonial Section End  ====================-->
                         </div>
 
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="startup-features text-center" data-aos="fade-right">
+                            <img src="assets/img/review.png" class="img-fluid" alt="Startup image">
+                        </div>
                     </div>
                 </div>
             </div>

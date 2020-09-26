@@ -793,9 +793,7 @@ $( "#price-slider" ).slider({
 })(jQuery);
 const mySwiper = new Swiper('.main-slider', {
     loop:true,
-    autoplay: {
-        delay: 4000,
-    },
+    autoplay: false,
 
     speed:1200,
     effect:"coverflow"

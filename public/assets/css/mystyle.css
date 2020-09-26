@@ -52,5 +52,12 @@
 .service-icon{
     text-align: center;
 }
-
-
+.social-icon{
+    font-size: 35px;
+}
+a > span{
+    color: white;
+}
+.header-area .is-sticky{
+    background-color: #5d739d;
+}
