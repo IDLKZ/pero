@@ -53,7 +53,7 @@
                                         <h5 class="mb-10 theme-color-default">Работаем онлайн!</h5>
                                         <a href="https://www.instagram.com/pero.agency/"><i class="fa fa-instagram"></i> Мы в инстаграмме!</a><br>
                                         <a href="https://api.whatsapp.com/send?phone=77783558165"><i class="fa fa-whatsapp"></i> Мы в WhatsApp!</a><br>
-                                        <a href=""><i class="fa fa-linkedin"></i> Мы в Linkedin!</a>
+{{--                                        <a href=""><i class="fa fa-linkedin"></i> Мы в Linkedin!</a>--}}
 
                                     </div>
                                 </div>

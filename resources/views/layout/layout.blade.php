@@ -292,15 +292,15 @@
             </div>
         </div>
     </div>
-    <div class="footer-copyright-area mt-25 mb-25">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-12 text-center">
-                    <span class="copyright-text">Команда фрилансеров <a href="https://idl.kz/" target="_blank" >IDL</a> {{\Carbon\Carbon::now()->year}}</span>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--    <div class="footer-copyright-area mt-25 mb-25">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row align-items-center">--}}
+{{--                <div class="col-md-12 text-center">--}}
+{{--                    <span class="copyright-text">Команда фрилансеров <a href="https://idl.kz/" target="_blank" >IDL</a> {{\Carbon\Carbon::now()->year}}</span>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 </div>
 <!--====================  End of footer area  ====================-->
 <!--====================  scroll top ====================-->

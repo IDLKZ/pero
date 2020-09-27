@@ -373,64 +373,64 @@
         <!--============ Business Solutions Area End ============-->
 
         <!--============ project Area Start ============-->
-        <div class="start-up-project-area section-space--ptb_120 start-up-bg startup-project-section-bg">
-            <div class="container-fluid cou-container-device">
-                <div class="row">
-                    <div class="col-xl-5 col-lg-5">
-                        <div class="features-images text-right  tablet-mt__40 small-mt__40" data-aos="fade-right">
-                            <img class="img-fluid" src="assets/img/result.jpg" alt="Start up image">
-                        </div>
-                    </div>
-                    <div class="col-xl-7 col-lg-7">
-                        <div class="start-up-right-740 float-left">
+{{--        <div class="start-up-project-area section-space--ptb_120 start-up-bg startup-project-section-bg">--}}
+{{--            <div class="container-fluid cou-container-device">--}}
+{{--                <div class="row">--}}
+{{--                    <div class="col-xl-5 col-lg-5">--}}
+{{--                        <div class="features-images text-right  tablet-mt__40 small-mt__40" data-aos="fade-right">--}}
+{{--                            <img class="img-fluid" src="assets/img/result.jpg" alt="Start up image">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="col-xl-7 col-lg-7">--}}
+{{--                        <div class="start-up-right-740 float-left">--}}
 
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="section-title-wrap text-left mb-20">
-                                        <h6 class="section-sub-title">Наши результаты</h6>
-                                        <h3 class="section-title">Результаты и наша работа <br> </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12 slider-wrap ">
-                                    <div class="swiper-container statup-slider__container">
-                                        <div class="swiper-wrapper">
-                                            <div class="swiper-slide">
-                                                <div class="startup-project-wrap">
-                                                    <a href="#">
-                                                        <img  style="width: 200px;height: 240px" src="assets/img/result1.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="startup-project-wrap">
-                                                    <a href="#">
-                                                        <img style="width: 200px;height: 240px" src="assets/img/result2.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                            <div class="swiper-slide">
-                                                <div class="startup-project-wrap">
-                                                    <a href="#">
-                                                        <img style="width: 200px;height: 240px" src="assets/img/result3.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Add Arrows -->
-                                    </div>
+{{--                            <div class="row">--}}
+{{--                                <div class="col-lg-12">--}}
+{{--                                    <div class="section-title-wrap text-left mb-20">--}}
+{{--                                        <h6 class="section-sub-title">Наши результаты</h6>--}}
+{{--                                        <h3 class="section-title">Результаты и наша работа <br> </h3>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                            <div class="row">--}}
+{{--                                <div class="col-lg-12 slider-wrap ">--}}
+{{--                                    <div class="swiper-container statup-slider__container">--}}
+{{--                                        <div class="swiper-wrapper">--}}
+{{--                                            <div class="swiper-slide">--}}
+{{--                                                <div class="startup-project-wrap">--}}
+{{--                                                    <a href="#">--}}
+{{--                                                        <img  style="width: 200px;height: 240px" src="assets/img/result1.jpg" alt="">--}}
+{{--                                                    </a>--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                            <div class="swiper-slide">--}}
+{{--                                                <div class="startup-project-wrap">--}}
+{{--                                                    <a href="#">--}}
+{{--                                                        <img style="width: 200px;height: 240px" src="assets/img/result2.jpg" alt="">--}}
+{{--                                                    </a>--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                            <div class="swiper-slide">--}}
+{{--                                                <div class="startup-project-wrap">--}}
+{{--                                                    <a href="#">--}}
+{{--                                                        <img style="width: 200px;height: 240px" src="assets/img/result3.jpg" alt="">--}}
+{{--                                                    </a>--}}
+{{--                                                </div>--}}
+{{--                                            </div>--}}
+{{--                                        </div>--}}
+{{--                                        <!-- Add Arrows -->--}}
+{{--                                    </div>--}}
 
-                                    <div class="swiper-pagination mt-30 pagination-project-1"></div>
-                                </div>
-                                <!--============ Hero End ============-->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--                                    <div class="swiper-pagination mt-30 pagination-project-1"></div>--}}
+{{--                                </div>--}}
+{{--                                <!--============ Hero End ============-->--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
-        </div>
+{{--        </div>--}}
         <!--============ project Area End ============-->
 
 
@@ -509,7 +509,7 @@
 
 
         <!--=========== Fun fact Area Start ==========-->
-        <div class="fun-fact-wrapper section-space--pt_120">
+        <div class="fun-fact-wrapper">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -552,7 +552,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="personal-info-box start-up-bg box-shadow--default">
-                            <h4 class="theme-color-default ">Заинтересовались, тогда пишите по Whatsapp:<a href="https://api.whatsapp.com/send?phone=77783558165">+77783558165</a></h4>
+{{--                            <h4 class="theme-color-default ">Заинтересовались, тогда пишите по Whatsapp:<a href="https://api.whatsapp.com/send?phone=77783558165">+77783558165</a></h4>--}}
                         </div>
                     </div>
                 </div>
@@ -569,10 +569,10 @@
                         <div class="testimonials-content-right-box tablet-mt__60 small-mt__60">
                             <div class="section-title-wrap section-space--mb_60">
                                 <h6 class="section-sub-title">Отзывы</h6>
-                                <h3 class="mb-20 section-title">Отзывы <br>наших клиентво</h3>
-                                <h4 class="mb-20 font-weight--light">
+                                <h4 class="mb-20 section-title">Отзывы <br>наших клиентов</h4>
+                                <h5 class="mb-20 font-weight--light">
                                     Работаем ради лучшего результата
-                                </h4>
+                                </h5>
                             </div>
 
                             <!--====================  Testimonial Section Start ====================-->
@@ -591,7 +591,7 @@
                                                             <span class="end-block">”</span></div>
                                                         <div class="author-info">
                                                             <div class="testimonial-slider__author">
-                                                                <h6 class="name">Ученица - <span class="designation">Ученица</span></h6>
+{{--                                                                <h6 class="name">Ученица - <span class="designation">Ученица</span></h6>--}}
                                                             </div>
                                                         </div>
                                                     </div>
@@ -654,7 +654,7 @@
                                                             <span class="end-block">”</span></div>
                                                         <div class="author-info">
                                                             <div class="testimonial-slider__author">
-                                                                <h6 class="name">Наша - <span class="designation">Ученица</span></h6>
+                                                                <h6 class="name">Наташа - <span class="designation">Ученица</span></h6>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -665,12 +665,12 @@
                                                     <div class="testimonial-slider--box">
                                                         <div class="testimonial-slider__text"><span class="start-block">“</span>
                                                             Айнур, үлкен рахмет! Сабақтар тусінікті, уақыты да ыңғайлы және  мықты результат.
-                                                            4-5 сабақта өзімнің есеп шығару  жылдамдығым артып, білмеген тақырыптарды түсіндім. Ал енді әлсіз жақтарымды жұмыс істеүдеміз.
+                                                            4-5 сабақта өзімнің есеп шығару  жылдамдығым артып, білмеген тақырыптарды түсіндім. Ал енді әлсіз жақтарымды жұмыс істеудеміз.
                                                             Оқушымен оңай  қатынас процессті жеңілдетеді екен. Рахмет!
                                                             <span class="end-block">”</span></div>
                                                         <div class="author-info">
                                                             <div class="testimonial-slider__author">
-                                                                <h6 class="name">Наша - <span class="designation">Ученица</span></h6>
+{{--                                                                <h6 class="name">Наша - <span class="designation">Ученица</span></h6>--}}
                                                             </div>
                                                         </div>
                                                     </div>
