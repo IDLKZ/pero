@@ -115,10 +115,12 @@
                     <div class="header default-menu-style position-relative">
 
                         <!-- brand logo -->
-                        <div class="header__logo">
-                            <a href="index.html">
-                                <img src="assets/images/logo/logo.jpg" width="75px" height="75px" class="img-fluid" alt="">
+                        <div class="mr-5 text-white">
+                            <a href="{{route('home')}}">
+                                <img src="assets/images/logo/logo.jpg" width="75px" height="75px" class="img-fluid" alt="Логотип">
+                                Pero International Agency
                             </a>
+
                         </div>
 
                         <!-- header midle box  -->
@@ -134,7 +136,7 @@
                                                         <a href="/"><span>Главная</span></a>
                                                     </li>
                                                     <li class="has-children">
-                                                        <a href="{{route("about")}}"><span>О нас</span></a>
+                                                        <a href="{{route("about")}}"><span>Преподаватели</span></a>
                                                     </li>
 
                                                     <li class="has-children has-children--multilevel-submenu">
@@ -205,9 +207,9 @@
         <div class="container">
             <div class="row footer-widget-wrapper">
                 <div class="col-lg-4 col-md-12 col-sm-12 footer-widget">
-                    <div class="footer-widget__logo mb-30">
-                        <img src="assets/images/logo/logo.jpg" height="75px" width="75px" class="img-fluid" alt="">
-                    </div>
+{{--                    <div class="footer-widget__logo mb-30">--}}
+{{--                        <img src="assets/images/logo/logo.jpg" height="75px" width="75px" class="img-fluid" alt="">--}}
+{{--                    </div>--}}
                     <div class="footer-widget-dic">
 
                         <p class="footer-dec">
@@ -244,10 +246,13 @@
                                     <a href="/"><span>Главная</span></a>
                                 </li>
                                 <li class="has-children">
-                                    <a href="{{route("about")}}"><span>О нас</span></a>
+                                    <a href="{{route("about")}}"><span>Преподаватели</span></a>
                                 </li>
                                 <li class="has-children has-children--multilevel-submenu">
                                     <a href="{{route("service")}}"><span>Курсы</span></a>
+                                </li>
+                                <li class="has-children has-children--multilevel-submenu">
+                                    <a href="{{route("product")}}"><span>Продукты</span></a>
                                 </li>
                                 <li class="has-children has-children--multilevel-submenu">
                                     <a href="{{route("pricing")}}"><span>Цены</span></a>
@@ -335,7 +340,7 @@
                         <a href="/"><span>Главная</span></a>
                     </li>
                     <li class="has-children">
-                        <a href="{{route("about")}}"><span>О нас</span></a>
+                        <a href="{{route("about")}}"><span>Преподаватели</span></a>
                     </li>
                     <li class="has-children has-children--multilevel-submenu">
                         <a href="{{route("service")}}"><span>Курсы</span></a>

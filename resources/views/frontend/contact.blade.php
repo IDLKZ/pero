@@ -2,7 +2,7 @@
 
 @section('content')
     <!-- breadcrumb-area start -->
-    <div class="creative_breadcrumb-area start_up_service-bg bg-img" data-bg="../../assets/images/bg/start-up-breadcrumb_bg-02.png">
+    <div class="creative_breadcrumb-area start_up_service-bg bg-img" data-bg="assets/img/breadcrumb.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">

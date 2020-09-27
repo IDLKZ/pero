@@ -2,7 +2,7 @@
 
 @section('content')
     <!-- breadcrumb-area start -->
-    <div class="creative_breadcrumb-area start_up_service-bg bg-img" data-bg="../../assets/images/bg/start-up-breadcrumb_bg-02.png">
+    <div class="creative_breadcrumb-area start_up_service-bg bg-img" data-bg="/assets/img/breadcrumb.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -39,11 +39,11 @@
                                 мы даем только практичные и качественные знания  </p>
                         </div>
                     </div>
-                    <div class="col-lg-8 ml-auto mr-auto">
-                        <div class="start-up-service section-space--mt_60">
-                            <img src="../../assets/img/pero.jpg" class="img-fluid" alt="">
-                        </div>
-                    </div>
+{{--                    <div class="col-lg-8 ml-auto mr-auto">--}}
+{{--                        <div class="start-up-service section-space--mt_60">--}}
+{{--                            <img src="../../assets/img/pero.jpg" class="img-fluid" alt="">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                 </div>
             </div>
         </div>

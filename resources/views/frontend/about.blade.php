@@ -127,98 +127,25 @@
             <div class="container text-center">
                 <h3 class="mb-20 section-title">Наша команда!</h3>
                 <div class="row pt-5">
-                    <div class="col-lg-3 col-md-6 col-sm-6">
+                    @foreach($data as $item)
+                        <div class="col-lg-3 col-md-6 col-sm-6">
                         <!-- single-team-box Start -->
                         <div class="single-team-box style-01">
                             <div class="team-image">
-                                <img class="img-fluid" src="../../assets/img/teammate1.jpg" alt="Team Image">
+                                <img class="img-fluid" src="{{$item['img']}}" alt="Team Image">
                             </div>
                             <div class="team-content">
                                 <div class="text-box">
-                                    <h4>Айнур Бакытжанова</h4>
-                                    <p>Репетитор по математике и 1-11 классов, Основатель PERO</p>
+                                    <h4>{{$item['name']}}</h4>
+                                    <p>{{$item['position']}}</p>
                                 </div>
                             </div>
                             <div class="social-creative-box">
                                 <div class="social-share-wrap">
                                     <ul class="list ht-social-networks style-three">
                                         <li class="item">
-                                            <a href="https://www.instagram.com/a.abilbayeva/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- single-team-box Start -->
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <!-- single-team-box Start -->
-                        <div class="single-team-box style-01">
-                            <div class="team-image">
-                                <img class="img-fluid" src="../../assets/img/teammate2.jpg" alt="Team Image">
-                            </div>
-                            <div class="team-content">
-                                <div class="text-box">
-                                    <h4>Бекасыл Батталгазы</h4>
-                                    <p>Консультант по поступлению заграницу, репетитор физики и математики</p>
-                                </div>
-                            </div>
-                            <div class="social-creative-box">
-                                <div class="social-share-wrap">
-                                    <ul class="list ht-social-networks style-three">
-                                        <li class="item">
-                                            <a href="https://www.instagram.com/bekassyl.battalgazy/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- single-team-box Start -->
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <!-- single-team-box Start -->
-                        <div class="single-team-box style-01">
-                            <div class="team-image">
-                                <img class="img-fluid" src="../../assets/img/teammate3.jpg" alt="Team Image">
-                            </div>
-                            <div class="team-content">
-                                <div class="text-box">
-                                    <h4>Еркежан Болатбекова</h4>
-                                    <p>CEO & Founder</p>
-                                </div>
-                            </div>
-                            <div class="social-creative-box">
-                                <div class="social-share-wrap">
-                                    <ul class="list ht-social-networks style-three">
-                                        <li class="item">
-                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- single-team-box Start -->
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <!-- single-team-box Start -->
-                        <div class="single-team-box style-01">
-                            <div class="team-image">
-                                <img class="img-fluid" src="../../assets/img/teammate4.jpg" alt="Team Image">
-                            </div>
-                            <div class="team-content">
-                                <div class="text-box">
-                                    <h4>Салтанат Ермаханова</h4>
-                                    <p>Репетитор математики и физики</p>
-                                </div>
-                            </div>
-                            <div class="social-creative-box">
-                                <div class="social-share-wrap">
-                                    <ul class="list ht-social-networks style-three">
-                                        <li class="item">
-                                            <a href="https://www.instagram.com/thegirlfrommars___/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
+{{--                                            <a href="https://www.instagram.com/a.abilbayeva/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>--}}
+                                            <a data-toggle="modal" data-target="#exampleModal{{$item['id']}}" class="social-link"><i class="fa fa-eye social-link-icon"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -226,82 +153,29 @@
                         </div>
                         <!-- single-team-box Start -->
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <!-- single-team-box Start -->
-                        <div class="single-team-box style-01">
-                            <div class="team-image">
-                                <img class="img-fluid" src="../../assets/img/teammate5.jpg" alt="Team Image">
-                            </div>
-                            <div class="team-content">
-                                <div class="text-box">
-                                    <h4>Сабина Кумарова</h4>
-                                    <p>Репетитор математики и английского языка</p>
-                                </div>
-                            </div>
-                            <div class="social-creative-box">
-                                <div class="social-share-wrap">
-                                    <ul class="list ht-social-networks style-three">
-                                        <li class="item">
-                                            <a href="https://www.instagram.com/kumarovasss" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- single-team-box Start -->
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <!-- single-team-box Start -->
-                        <div class="single-team-box style-01">
-                            <div class="team-image">
-                                <img class="img-fluid" src="../../assets/img/teammate6.jpg" alt="Team Image">
-                            </div>
-                            <div class="team-content">
-                                <div class="text-box">
-                                    <h4>Раушан Ескендирова</h4>
-                                    <p>CEO & Founder</p>
-                                </div>
-                            </div>
-                            <div class="social-creative-box">
-                                <div class="social-share-wrap">
-                                    <ul class="list ht-social-networks style-three">
-                                        <li class="item">
-                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
-                                        </li>
-
-                                    </ul>
+                        <div class="modal fade" id="exampleModal{{$item['id']}}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLabel">О преподавателе</h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <p>{{$item['description']}}</p>
+                                        <hr>
+                                        <b>Основная деятельность в команде:</b>
+                                        <p>{{$item['main_position']}}</p>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+{{--                                        <button type="button" class="btn btn-primary"></button>--}}
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- single-team-box Start -->
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <!-- single-team-box Start -->
-                        <div class="single-team-box style-01">
-                            <div class="team-image">
-                                <img class="img-fluid" src="../../assets/img/teammate7.jpg" alt="Team Image">
-                            </div>
-                            <div class="team-content">
-                                <div class="text-box">
-                                    <h4>Жансая Нуржаубаева</h4>
-                                    <p>CEO & Founder</p>
-                                </div>
-                            </div>
-                            <div class="social-creative-box">
-                                <div class="social-share-wrap">
-                                    <ul class="list ht-social-networks style-three">
-                                        <li class="item">
-                                            <a href="https://www.facebook.com/" target="_blank" class="social-link"> <i class="fa fa-instagram social-link-icon"></i></a>
-                                        </li>
-
-
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- single-team-box Start -->
-                    </div>
+                    @endforeach
 
                 </div>
             </div>
