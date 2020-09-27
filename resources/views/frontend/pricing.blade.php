@@ -25,7 +25,7 @@
                         <div class="pricing-table__inner">
                             <h5 class="price price__three">1500 тг/час</h5>
                             <div class="pricing-table__header">
-                                <h3 class="pricing-table__title">Курсы английского</h3>
+                                <h4 class="pricing-table__title">Курсы английского</h4>
                             </div>
                             <div class="pricing-table__price-wrap">
                                 <div class="pricing-table__body">
@@ -49,7 +49,7 @@
                         <div class="pricing-table__inner">
                             <h5 class="price price__three">2500 тг/час</h5>
                             <div class="pricing-table__header">
-                                <h3 class="pricing-table__title">Курс IELTS <br><small>(9-11 кл.,студенты)</small></h3>
+                                <h4 class="pricing-table__title">Курс IELTS <br><small>(9-11 кл.,студенты)</small></h4>
                             </div>
                             <div class="pricing-table__price-wrap">
                                 <div class="pricing-table__body">
@@ -73,7 +73,7 @@
                         <div class="pricing-table__inner">
                             <h5 class="price price__three">2000 тг/час</h5>
                             <div class="pricing-table__header">
-                                <h3 class="pricing-table__title">Подготовка ЕНТ</h3><small>физ/матем/хим (9-11кл.)</small>
+                                <h4 class="pricing-table__title">Подготовка ЕНТ</h4><small>физ/матем/хим (9-11кл.)</small>
                             </div>
                             <div class="pricing-table__price-wrap">
                                 <div class="pricing-table__body m-0">
@@ -97,7 +97,7 @@
                         <div class="pricing-table__inner">
                             <h5 class="price price__three">2500 тг/час</h5>
                             <div class="pricing-table__header">
-                                <h5 class="pricing-table__title">Подготовка к международным экзаменам <br> NUFYPET, SAT, ACT (9-11 кл.)</h5><small>(математика, физика, Critical Thinking на англ. языке)</small>
+                                <h4 class="pricing-table__title">Подготовка к международным экзаменам <br> NUFYPET, SAT, ACT (9-11 кл.)</h4><small>(математика, физика, Critical Thinking на англ. языке)</small>
                             </div>
                             <div class="pricing-table__price-wrap">
                                 <div class="pricing-table__body m-0">
@@ -121,7 +121,7 @@
                         <div class="pricing-table__inner">
                             <h5 class="price price__three">1500 тг/час</h5>
                             <div class="pricing-table__header">
-                                <h3 class="pricing-table__title">Школьные предметы <br><small>(заполнение пробелов 1-9кл.)</small></h3>
+                                <h4 class="pricing-table__title">Школьные предметы <br><small>(заполнение пробелов 1-9кл.)</small></h4>
                             </div>
                             <div class="pricing-table__price-wrap">
                                 <div class="pricing-table__body mt-3">
