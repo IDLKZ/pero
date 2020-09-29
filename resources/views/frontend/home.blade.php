@@ -236,46 +236,46 @@
         <!--============ Service Area End ============-->
 
         <!--============ About Area Start ============-->
-        <div class="about-wrapper section-space--pb_120 section-space--pt_90 start-up-patterns-image-01">
-            <div class="container">
-                <div class="row align-items-center">
+{{--        <div class="about-wrapper section-space--pb_120 section-space--pt_90 start-up-patterns-image-01">--}}
+{{--            <div class="container">--}}
+{{--                <div class="row align-items-center">--}}
 
-                    <div class="col-lg-6 dots-offset">
-                        <div class="about-image" data-aos="fade-right">
-                            <div class="inner-images">
-                                <img class="about-img img-fluid" src="/assets/img/pero.jpg" alt="About Image">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="about-us-content about-us-offset-right position-relative x-index-1 small-mt__40 tablet-mt__40">
-                            <div class="section-title-wrap">
-                                <h6 class="section-sub-title">Pero International Agency</h6>
-                                <h3 class="mb-20 section-title">Поможем осуществить Вашу мечту</h3>
-                                <h4 class="mb-20 font-weight--light"><span class="text-size-lg font-weight-bold text-color-secondary">Pero </span> - анализируем, создаем, практикуем</h4>
-                                <p class="mb-20 font-weight--light">
-                                    Pero - занимается широким спектром обучения. Мы готовим к поступлению в РФМШ,НИШ,КТЛ.
-                                    Подготовка к международным экзаменам на английском языке SAT,NUFYPET,ACT.
-                                    Готовим к ЕНТ, помогаем закрыть пробелы школьных знаний
-                                </p>
-                                <p class="mb-15 font-weight--normal font-italic">
-                                   Курсы английского языка от Beginner до Advanced.
-                                    Готовим к международному экзамену IELTS
-                                </p>
-                                <p class="mb-40 font-weight--light">
-                                    Все занятия проходят в онлайн режиме, где ты можешь выбрать свой темп обучения!
-                                    А наш центр сделает все, чтобы ты успешно достиг своих целей!
-                                </p>
+{{--                    <div class="col-lg-6 dots-offset">--}}
+{{--                        <div class="about-image" data-aos="fade-right">--}}
+{{--                            <div class="inner-images">--}}
+{{--                                <img class="about-img img-fluid" src="/assets/img/pero.jpg" alt="About Image">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="col-lg-6">--}}
+{{--                        <div class="about-us-content about-us-offset-right position-relative x-index-1 small-mt__40 tablet-mt__40">--}}
+{{--                            <div class="section-title-wrap">--}}
+{{--                                <h6 class="section-sub-title">Pero International Agency</h6>--}}
+{{--                                <h3 class="mb-20 section-title">Поможем осуществить Вашу мечту</h3>--}}
+{{--                                <h4 class="mb-20 font-weight--light"><span class="text-size-lg font-weight-bold text-color-secondary">Pero </span> - анализируем, создаем, практикуем</h4>--}}
+{{--                                <p class="mb-20 font-weight--light">--}}
+{{--                                    Pero - занимается широким спектром обучения. Мы готовим к поступлению в РФМШ,НИШ,КТЛ.--}}
+{{--                                    Подготовка к международным экзаменам на английском языке SAT,NUFYPET,ACT.--}}
+{{--                                    Готовим к ЕНТ, помогаем закрыть пробелы школьных знаний--}}
+{{--                                </p>--}}
+{{--                                <p class="mb-15 font-weight--normal font-italic">--}}
+{{--                                   Курсы английского языка от Beginner до Advanced.--}}
+{{--                                    Готовим к международному экзамену IELTS--}}
+{{--                                </p>--}}
+{{--                                <p class="mb-40 font-weight--light">--}}
+{{--                                    Все занятия проходят в онлайн режиме, где ты можешь выбрать свой темп обучения!--}}
+{{--                                    А наш центр сделает все, чтобы ты успешно достиг своих целей!--}}
+{{--                                </p>--}}
 
-                                <div class="about-us-btn-box">
-                                    <a href="{{route("about")}}" class="ht-btn ht-btn-sm">О нас</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+{{--                                <div class="about-us-btn-box">--}}
+{{--                                    <a href="{{route("about")}}" class="ht-btn ht-btn-sm">О нас</a>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
         <!--============ About Area End ============-->
 
 
