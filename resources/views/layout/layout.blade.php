@@ -36,7 +36,7 @@
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/mystyle.css">
-
+    <script charset="utf-8" type="text/javascript" src="https://cp.callback-free.com/api/js/form-builder.js" data-key="tTRvF0uf"></script>
 </head>
 
 <body>
@@ -193,10 +193,10 @@
 
 
 <!-- RedConnect -->
-<script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async"
-        src="https://web.redhelper.ru/service/main.js?c=idlkz"></script>
-<div style="display: none"><a class="rc-copyright"
-                              href="http://redconnect.ru">Сервис обратного звонка RedConnect</a></div>
+{{--<script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async"--}}
+{{--        src="https://web.redhelper.ru/service/main.js?c=idlkz"></script>--}}
+{{--<div style="display: none"><a class="rc-copyright"--}}
+{{--                              href="http://redconnect.ru">Сервис обратного звонка RedConnect</a></div>--}}
 <!--/RedConnect -->
 
 
