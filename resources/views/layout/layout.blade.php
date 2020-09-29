@@ -36,7 +36,22 @@
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/mystyle.css">
-    <script charset="utf-8" type="text/javascript" src="https://cp.callback-free.com/api/js/form-builder.js" data-key="tTRvF0uf"></script>
+    <script type="text/javascript">
+        var ZCallbackWidgetLinkId  = 'd3f2041c73501ac270b96eed3a186add';
+        var ZCallbackWidgetDomain  = 'my.zadarma.com';
+        (function(){
+            var lt = document.createElement('script');
+            lt.type ='text/javascript';
+            lt.charset = 'utf-8';
+            lt.async = true;
+            lt.src = 'https://' + ZCallbackWidgetDomain + '/callbackWidget/js/main.min.js';
+            var sc = document.getElementsByTagName('script')[0];
+            if (sc) sc.parentNode.insertBefore(lt, sc);
+            else document.documentElement.firstChild.appendChild(lt);
+        })();
+    </script>
+
+    {{--    <script charset="utf-8" type="text/javascript" src="https://cp.callback-free.com/api/js/form-builder.js" data-key="tTRvF0uf"></script>--}}
 </head>
 
 <body>
