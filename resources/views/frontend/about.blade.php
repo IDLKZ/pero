@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="breadcrumb_box text-left">
-                        <h2 class="breadcrumb-title text-color-primary mb-10">О нас</h2>
+                        <h3 class="breadcrumb-title text-color-primary mb-10">О нас</h3>
                         <p class="">Pero Intenational Agency <br>
                           обучаем, давая только практичные знания <br>
                            Все занятия проводим онлайн! </p>
@@ -126,7 +126,7 @@
         <div class="team-area section-space--pt_10 section-space--pb_90">
             <div class="container text-center">
                 <h3 class="mb-20 section-title">Наша команда!</h3>
-                <div class="row pt-5">
+                <div class="row pt-5 justify-content-center">
                     @foreach($data as $item)
                         <div class="col-lg-3 col-md-6 col-sm-6">
                         <!-- single-team-box Start -->

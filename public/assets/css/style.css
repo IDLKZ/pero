@@ -1,16 +1,16 @@
 @charset "UTF-8";
 /*============================
-    CSS Index         
+    CSS Index
 ==============================
 
     01. Default Css
-        - Breadvrumb 
-        - Preloader   
-        - Scroll top 
+        - Breadvrumb
+        - Preloader
+        - Scroll top
     02. Section Spacing Css
     03. Custom Animation Css
-    04. container Css 
-    05. Header Css 
+    04. container Css
+    05. Header Css
         - language
         - Navigation Menu Css
         - Multilevel Submenu Css
@@ -18,29 +18,29 @@
         - Mobile Menu Overlay Css
     06. Footer Css
     07. Sidebar Css
-    08. Product style Css   
-    09. Cart Page Css  
-    10. Checkout Page Css 
+    08. Product style Css
+    09. Cart Page Css
+    10. Checkout Page Css
     11. Services Css
     12. Services Css
-    13. Counters Css 
+    13. Counters Css
     14. Listing Css
     15. Call To Action Css
     16. Testimonial slider Css
-    17. Team Css 
+    17. Team Css
     18. Projcet Css
     19. Timeline Css
     20. Contact Us Css
-    21. Pricing  Css   
-    22. Corporate Pages Css       
-    23. Personal Pages Css 
+    21. Pricing  Css
+    22. Corporate Pages Css
+    23. Personal Pages Css
     24. Creative Pages Css
-    25. Architecture Pages Css    
+    25. Architecture Pages Css
     26. StartUp Pages Css
-    27. Blog Pages Css   
+    27. Blog Pages Css
     28. Projct Details Pages Css
-    29. Preview Page Css 
-    
+    29. Preview Page Css
+
 /*=====  End of CSS Index  ======*/
 /*=============================================
 =             01. Default Css                 =
@@ -841,7 +841,7 @@ input[type="checkbox"] {
 }
 
 /*===================================
-    - Breadvrumb  
+    - Breadvrumb
 =================================*/
 .breadcrumb-area {
   padding-top: 260px;
@@ -1122,7 +1122,7 @@ input[type="checkbox"] {
 }
 
 /*=============================================
-   - Scroll top         
+   - Scroll top
 =============================================*/
 .scroll-top {
   position: fixed;
@@ -2062,7 +2062,7 @@ input[type="checkbox"] {
 }
 
 /* ------------------------
-    Custom Animation 01 
+    Custom Animation 01
 ----------------------------*/
 @-webkit-keyframes headerSlideDown {
   0% {
@@ -2191,7 +2191,7 @@ input[type="checkbox"] {
 }
 
 /* ------------------------
-    Brook Hover Effect 
+    Brook Hover Effect
 ---------------------------*/
 .brook-transition {
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -2229,7 +2229,7 @@ input[type="checkbox"] {
 }
 
 /* ------------------------
-    Separator Bounce 
+    Separator Bounce
 ---------------------------*/
 @-webkit-keyframes separator-bounce {
   0%,
@@ -2965,7 +2965,7 @@ input[type="checkbox"] {
 }
 
 /*======================
-    - language 
+    - language
 =======================*/
 .language-menu > ul > li {
   position: relative;
@@ -3153,7 +3153,7 @@ input[type="checkbox"] {
   color: #333;
 }
 
-/*============================== 
+/*==============================
     - Navigation Menu Css
 ===============================*/
 .navigation-menu > ul {
@@ -3789,7 +3789,7 @@ input[type="checkbox"] {
   color: #ddd;
 }
 
-/*================================ 
+/*================================
     - Mobile Menu Overlay Css
 ==================================*/
 .mobile-menu-overlay, .page-oppen-off-sidebar {
@@ -7302,7 +7302,7 @@ input[type="checkbox"] {
   color: #ffffff;
 }
 
-/*================================  
+/*================================
 =          17. Team Css          =
 ==================================*/
 .single-team-box.style-01 {
@@ -7692,7 +7692,7 @@ input[type="checkbox"] {
             min-width: 340px;
             max-width: 300px;
             left: 0%;
-            
+
         } */
 }
 
@@ -8518,9 +8518,9 @@ input[type="checkbox"] {
   -o-transition: all 0.7s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.7s cubic-bezier(0.645, 0.045, 0.355, 1);
   text-align: center;
-  padding: 90px 20px 100px;
-  background: #f6f7ff;
-  margin-bottom: 30px;
+  padding: 90px 20px 0px;
+  background: #bfc1cad4;
+  /*margin-bottom: 30px;*/
 }
 
 .pricing-table-two .pricing-table__inner::after {

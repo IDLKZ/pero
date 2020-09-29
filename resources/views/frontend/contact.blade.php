@@ -7,7 +7,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="breadcrumb_box text-left">
-                        <h2 class="breadcrumb-title text-color-primary mb-10">Наши контакты</h2>
+                        <h3 class="breadcrumb-title text-color-primary mb-10">Наши контакты</h3>
                         <p class="">
                             Pero International Agency онлайн 24/7! <br>
                             Остались вопросы? <br>

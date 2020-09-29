@@ -64,3 +64,12 @@ a > span{
 .scroll-top.show{
     bottom: 90px!important;
 }
+.ft {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    bottom: 0;
+}

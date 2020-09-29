@@ -199,53 +199,53 @@
 
 
         <!--============ Working Process Area Start =================-->
-        <div class="working-process-area section-space--pb_120">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-8">
-                        <div class="section-title-wrap section-space--mb_60">
-                            <h6 class="section-sub-title">Как мы работаем</h6>
-                            <h3 class="mb-20 section-title">Быстро и <br> Оперативно</h3>
-                        </div>
+{{--        <div class="working-process-area section-space--pb_120">--}}
+{{--            <div class="container">--}}
+{{--                <div class="row align-items-center">--}}
+{{--                    <div class="col-lg-8">--}}
+{{--                        <div class="section-title-wrap section-space--mb_60">--}}
+{{--                            <h6 class="section-sub-title">Как мы работаем</h6>--}}
+{{--                            <h3 class="mb-20 section-title">Быстро и <br> Оперативно</h3>--}}
+{{--                        </div>--}}
 
-                        <div class="working-process-wrap tablet-mb__20">
-                            <div class="row">
-                                <div class="col-lg-3 col-md-3 col-6">
-                                    <div class="single-working-process">
-                                        <h3>01</h3>
-                                        <span>Проверяем <br> Ваш уровень</span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-3 col-6">
-                                    <div class="single-working-process">
-                                        <h3>02</h3>
-                                        <span>Составляем <br> План</span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-3 col-6">
-                                    <div class="single-working-process">
-                                        <h3>03</h3>
-                                        <span>Интенсивно <br> учимся и анализируем</span>
-                                    </div>
-                                </div>
-                                <div class="col-lg-3 col-md-3 col-6">
-                                    <div class="single-working-process">
-                                        <h3>04</h3>
-                                        <span>Практикуем и <br> Достигаем</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+{{--                        <div class="working-process-wrap tablet-mb__20">--}}
+{{--                            <div class="row">--}}
+{{--                                <div class="col-lg-3 col-md-3 col-6">--}}
+{{--                                    <div class="single-working-process">--}}
+{{--                                        <h3>01</h3>--}}
+{{--                                        <span>Проверяем <br> Ваш уровень</span>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="col-lg-3 col-md-3 col-6">--}}
+{{--                                    <div class="single-working-process">--}}
+{{--                                        <h3>02</h3>--}}
+{{--                                        <span>Составляем <br> План</span>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="col-lg-3 col-md-3 col-6">--}}
+{{--                                    <div class="single-working-process">--}}
+{{--                                        <h3>03</h3>--}}
+{{--                                        <span>Интенсивно <br> учимся и анализируем</span>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                                <div class="col-lg-3 col-md-3 col-6">--}}
+{{--                                    <div class="single-working-process">--}}
+{{--                                        <h3>04</h3>--}}
+{{--                                        <span>Практикуем и <br> Достигаем</span>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
 
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="working-process-images">
-                            <img class="img-fluid" src="../../assets/img/service1.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+{{--                    </div>--}}
+{{--                    <div class="col-lg-4">--}}
+{{--                        <div class="working-process-images">--}}
+{{--                            <img class="img-fluid" src="../../assets/img/service1.jpg" alt="">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
         <!--============ Working Process Area End ==================-->
 
 
