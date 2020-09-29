@@ -2860,14 +2860,10 @@ input[type="checkbox"] {
 }
 
 @media only screen and (max-width: 767px) {
-  .header.default-menu-style .header__logo {
-    -webkit-flex-basis: 50%;
-        -ms-flex-preferred-size: 50%;
-            flex-basis: 50%;
-    -webkit-box-pack: start;
-    -webkit-justify-content: flex-start;
-        -ms-flex-pack: start;
-            justify-content: flex-start;
+  .header.default-menu-style .mm {
+      margin-right: 0!important;
+      font-size: 12px;
+      color: black !important;
   }
 }
 

@@ -117,7 +117,7 @@
                     <div class="header default-menu-style position-relative">
 
                         <!-- brand logo -->
-                        <div class="mr-5 text-white">
+                        <div class="mr-5 text-white mm">
                             <a href="{{route('home')}}">
                                 <img src="assets/images/logo/logo.jpg" width="75px" height="75px" class="img-fluid" alt="Логотип">
                                 Pero International Agency
@@ -349,6 +349,9 @@
                     </li>
                     <li class="has-children has-children--multilevel-submenu">
                         <a href="{{route("pricing")}}"><span>Цены</span></a>
+                    </li>
+                    <li class="has-children has-children--multilevel-submenu">
+                        <a href="{{route("product")}}"><span>Продукты</span></a>
                     </li>
                     <li class="has-children has-children--multilevel-submenu">
                         <a href="{{route("contact")}}"><span>Контакты</span></a>
