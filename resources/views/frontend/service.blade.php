@@ -25,38 +25,6 @@
 
     <div class="site-wrapper-reveal overflow-hiden">
 
-        <!--=========== Service Area Start ==========-->
-        <div class="services-details-area section-space--pt_120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 ml-auto mr-auto">
-                        <div class="section-title-wrap text-center">
-                            <h3 class="mb-20 section-title">С заботой  <br>  о Вас</h3>
-                            <h4 class="mb-20 font-weight--reguler"><span class="text-size-lg font-weight-bold text-color-secondary">Pero International Agency </span>имеет большой опыт в преподавании</h4>
-                            <p class="mb-20 font-weight--light">У нас вы можете самостоятельно подобрать темп обучения, время, преподавателей <br>
-                              Мы помогаем достигать своих целей, расти и развиваться</p>
-                            <p class="mb-15 font-weight--normal font-italic">Понимая основные ключевые моменты того или иного предмета, <br>
-                                мы даем только практичные и качественные знания  </p>
-                        </div>
-                    </div>
-{{--                    <div class="col-lg-8 ml-auto mr-auto">--}}
-{{--                        <div class="start-up-service section-space--mt_60">--}}
-{{--                            <img src="../../assets/img/pero.jpg" class="img-fluid" alt="">--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-                </div>
-            </div>
-        </div>
-        <!--=========== Service Area End ==========-->
-
-
-
-
-
-
-
-
-
         <!--============ Service Area Start ============-->
         <div class="services-wrapper services-hight section-space--pt_120 bg-img" data-bg="../../assets/img/service2.jpg">
             <div class="container">

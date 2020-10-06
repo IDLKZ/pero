@@ -36,7 +36,7 @@
     <!-- Main Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/mystyle.css">
-    <script type="text/javascript" src="https://one.callback.pw/widget/d0beb6f3-b9a1-4672-a691-563f50aef4bd"></script>
+{{--    <script type="text/javascript" src="https://one.callback.pw/widget/d0beb6f3-b9a1-4672-a691-563f50aef4bd"></script>--}}
 
     {{--    <script charset="utf-8" type="text/javascript" src="https://cp.callback-free.com/api/js/form-builder.js" data-key="tTRvF0uf"></script>--}}
 </head>
