@@ -109,7 +109,7 @@
                             </div>
                             <div class="service-content">
                                 <h4 class="section-title mb-10">NUFYPET</h4>
-                                <p>Предметный тест на английском для поступления в Nazarbayev Universityы
+                                <p>Предметный тест на английском для поступления в Nazarbayev University
                                 </p>
                             </div>
                         </div>
@@ -144,7 +144,7 @@
                             </div>
                             <div class="service-content">
                                 <h4 class="section-title mb-10"> NIS, БИЛ, РФМШ,КТЛ</h4>
-                                <p>Подготовка к вступительным экзаменом в школы, лицеи и вузы
+                                <p>Подготовка к вступительным экзаменам в школы, лицеи и вузы
                                 </p>
                             </div>
                         </div>
@@ -336,7 +336,7 @@
                                     <div class="service-content">
                                         <h4 class="section-title mb-10">Экзамены</h4>
                                         <p>
-                                            Сдача международным экзаменов NYFYPET,SAT,ACT
+                                            Сдача международных экзаменов NYFYPET,SAT,ACT
                                         </p>
                                     </div>
                                 </div>
