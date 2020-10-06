@@ -32,7 +32,7 @@
                     <div class="about-us-content about-us-offset-right position-relative x-index-1 small-mt__40 tablet-mt__40">
                         <div class="section-title-wrap">
                             <h6 class="section-sub-title">Pero International Agency</h6>
-                            <h3 class="mb-20 section-title">Представляем Вам Гайды</h3>
+                            <h3 class="mb-20 section-title">Готовы представить Вам гайды и консультацию по поступлению в топовые ВУЗы мира</h3>
                             <h4 class="mb-20 font-weight--light"><span class="text-size-lg font-weight-bold text-color-secondary">Pero </span> - анализируем, создаем, практикуем</h4>
                             <p class="mb-20 font-weight--light">
                                 1)Гайд из стипендий и университетов. Гайд включает себя 150+ стипендий и больше 400 университетов в странах Азии, Европы, Канаде, США а также в Австралии!
